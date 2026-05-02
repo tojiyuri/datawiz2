@@ -1,8 +1,9 @@
 /**
  * LLM Conversation Engine — multi-provider with structured tool use.
  *
- * Routes Ask Wiz requests to one of three providers, selected via LLM_PROVIDER:
- *   - anthropic  (default — best quality, requires API key)
+ * Routes Ask Wiz requests to one of four providers, selected via LLM_PROVIDER:
+ *   - anthropic  (best quality — Claude, requires ANTHROPIC_API_KEY)
+ *   - groq       (free tier, fast — Llama 3.3 70B, requires GROQ_API_KEY)
  *   - ollama     (local — runs on the user's machine, requires Ollama installed)
  *   - none       (heuristic-only — no LLM)
  *
@@ -21,17 +22,21 @@
 
 const heuristicEngine = require('./conversationEngine');
 const anthropicProvider = require('./llmProviders/anthropic');
+const groqProvider = require('./llmProviders/groq');
 const ollamaProvider = require('./llmProviders/ollama');
 
 function selectedProvider() {
   const choice = (process.env.LLM_PROVIDER || 'auto').toLowerCase();
   if (choice === 'none' || choice === 'heuristic') return null;
   if (choice === 'ollama') return ollamaProvider;
+  if (choice === 'groq') return groqProvider;
   if (choice === 'anthropic' || choice === 'claude') return anthropicProvider;
 
-  // 'auto' (default): prefer anthropic if key is set, else fall back to ollama
-  // if it's reachable, else null (heuristic).
+  // 'auto' (default): prefer paid, then free cloud, then local, then heuristic.
+  // Order: anthropic > groq > ollama > null. If you want to force a different
+  // provider, set LLM_PROVIDER explicitly.
   if (anthropicProvider.isAvailable()) return anthropicProvider;
+  if (groqProvider.isAvailable()) return groqProvider;
   if (ollamaProvider.isAvailable()) return ollamaProvider;
   return null;
 }
