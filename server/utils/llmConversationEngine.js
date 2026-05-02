@@ -325,6 +325,20 @@ async function converse({ message, currentSpec, datasetId, history, dataset }) {
     tools: TOOLS,
   });
 
+  // Provider returned `rateLimited: true` (Groq free-tier TPM exceeded, or
+  // similar). Rather than show a "snag" message to the user, gracefully
+  // fall through to the heuristic engine so the conversation still works.
+  if (response.rateLimited) {
+    const fallback = heuristicEngine.converse({ message, currentSpec, analysis: dataset });
+    return {
+      ...fallback,
+      poweredBy: 'heuristic',
+      llmAvailable: true,
+      llmRateLimited: true,
+      latencyMs: response.latencyMs,
+    };
+  }
+
   // Provider call failed entirely (network, auth, model not loaded, etc.)
   if (response.error) {
     console.error(`[Wiz] ${provider.describe().name} call failed:`, response.error);
