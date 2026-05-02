@@ -1,0 +1,396 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── BASE ─────────────────────────────────────────────────────────────────── */
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  background: #0A0908;
+  color: #F0EDE6;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';   /* Inter character variants */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+
+  /* Subtle warm noise for tactile feel — paper-like */
+  background-image:
+    radial-gradient(ellipse 80% 50% at 20% 0%, rgba(233,165,33,0.04) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 40% at 80% 100%, rgba(63,168,158,0.03) 0%, transparent 60%);
+  background-attachment: fixed;
+}
+
+/* ─── SCROLLBAR ────────────────────────────────────────────────────────────── */
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: #2A2620;
+  border-radius: 6px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+::-webkit-scrollbar-thumb:hover { background: #3D3830; background-clip: padding-box; border: 2px solid transparent; }
+::selection { background: rgba(233,165,33,0.28); color: #F0EDE6; }
+
+/* ─── TYPOGRAPHY ───────────────────────────────────────────────────────────── */
+
+/* Real heading hierarchy — display serif at meaningful sizes */
+h1, .h1 {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 700;
+  font-size: 2.25rem;       /* 36px */
+  line-height: 1.05;
+  letter-spacing: -0.025em;
+  font-variation-settings: 'opsz' 96, 'SOFT' 30;     /* slightly soft optical size */
+  color: #F0EDE6;
+}
+h2, .h2 {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.75rem;       /* 28px */
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  font-variation-settings: 'opsz' 60;
+  color: #F0EDE6;
+}
+h3, .h3 {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.375rem;      /* 22px */
+  line-height: 1.25;
+  letter-spacing: -0.015em;
+  font-variation-settings: 'opsz' 36;
+  color: #F0EDE6;
+}
+
+/* Hero — used on landing/upload */
+.h-display {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 600;
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  line-height: 1;
+  letter-spacing: -0.04em;
+  font-variation-settings: 'opsz' 144, 'SOFT' 50;
+}
+
+/* Body */
+p { line-height: 1.6; color: #C4BFB3; }
+
+/* ─── BUTTONS ──────────────────────────────────────────────────────────────── */
+
+/* Primary — confident amber */
+.btn-primary {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  padding: 0.625rem 1rem;
+  border-radius: 8px;
+  background: #E9A521;
+  color: #0A0908;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 600;
+  font-size: 0.875rem;
+  letter-spacing: -0.01em;
+  border: 1px solid #C7861A;
+  box-shadow: 0 1px 0 rgba(255,255,255,0.15) inset, 0 1px 2px rgba(0,0,0,0.4);
+  transition: all 0.18s cubic-bezier(0.16,1,0.3,1);
+  cursor: pointer;
+}
+.btn-primary:hover { background: #F5C45E; transform: translateY(-1px); box-shadow: 0 1px 0 rgba(255,255,255,0.2) inset, 0 4px 8px rgba(0,0,0,0.3); }
+.btn-primary:active { transform: translateY(0); background: #C7861A; }
+.btn-primary:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+
+/* Secondary — outlined */
+.btn-secondary {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  padding: 0.625rem 1rem;
+  border-radius: 8px;
+  background: rgba(26,24,19,0.6);
+  color: #F0EDE6;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  letter-spacing: -0.01em;
+  border: 1px solid #3D3830;
+  transition: all 0.18s cubic-bezier(0.16,1,0.3,1);
+  cursor: pointer;
+}
+.btn-secondary:hover { border-color: #5C5446; background: #1A1813; }
+.btn-secondary:active { background: #221F19; }
+
+/* Ghost — minimal, used in toolbars */
+.btn-ghost {
+  display: inline-flex; align-items: center; gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  background: transparent;
+  color: #C4BFB3;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 500;
+  font-size: 0.8125rem;
+  border: 1px solid transparent;
+  transition: all 0.15s ease;
+  cursor: pointer;
+}
+.btn-ghost:hover { background: rgba(26,24,19,0.6); color: #F0EDE6; }
+
+/* ─── CARDS ────────────────────────────────────────────────────────────────── */
+
+/* Real card with paper-like shadow, not the translucent thing */
+.card {
+  background: #15130F;
+  border: 1px solid #2A2620;
+  border-radius: 12px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.4), 0 1px 1px rgba(0,0,0,0.2), inset 0 1px 0 rgba(255,255,255,0.02);
+  transition: all 0.25s cubic-bezier(0.16,1,0.3,1);
+}
+.card:hover { border-color: #3D3830; }
+
+.card-elevated {
+  background: #1A1813;
+  border: 1px solid #3D3830;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.45), 0 2px 4px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.03);
+}
+
+/* Tactile lift on hover — small, deliberate */
+.card-lift {
+  transition: transform 0.25s cubic-bezier(0.16,1,0.3,1), box-shadow 0.25s cubic-bezier(0.16,1,0.3,1), border-color 0.25s ease;
+}
+.card-lift:hover {
+  transform: translateY(-2px);
+  border-color: #5C5446;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.5), 0 2px 6px rgba(0,0,0,0.3);
+}
+
+/* ─── INPUT ────────────────────────────────────────────────────────────────── */
+
+.input {
+  display: block;
+  width: 100%;
+  padding: 0.625rem 0.875rem;
+  border-radius: 8px;
+  background: rgba(26,24,19,0.6);
+  border: 1px solid #2A2620;
+  color: #F0EDE6;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.875rem;
+  transition: all 0.18s ease;
+}
+.input::placeholder { color: #605B51; }
+.input:focus {
+  outline: none;
+  border-color: #E9A521;
+  background: #1A1813;
+  box-shadow: 0 0 0 3px rgba(233,165,33,0.12);
+}
+
+/* ─── DIVIDERS ─────────────────────────────────────────────────────────────── */
+
+.divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #2A2620 20%, #2A2620 80%, transparent);
+  margin: 2rem 0;
+}
+
+/* ─── SECTION HEADERS ──────────────────────────────────────────────────────── */
+
+/* For "EYEBROW" / category labels above sections — minimal, not screaming */
+.eyebrow {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #8B8579;
+}
+
+/* ─── TEXT EMPHASIS ────────────────────────────────────────────────────────── */
+
+.text-accent { color: #E9A521; }
+.text-accent-light { color: #F5C45E; }
+.text-secondary { color: #C4BFB3; }
+.text-tertiary { color: #8B8579; }
+.text-muted { color: #605B51; }
+
+/* ─── LEGACY UTILITIES (kept so existing pages still work during transition) ─ */
+
+.gradient-text {
+  /* Now just a single confident color, not a rainbow */
+  color: #E9A521;
+}
+.gradient-text-simple { color: #E9A521; }
+
+.glass {
+  background: rgba(21,19,15,0.7);
+  backdrop-filter: blur(16px) saturate(140%);
+  border: 1px solid rgba(42,38,32,0.8);
+}
+.glass-hover:hover { background: rgba(26,24,19,0.85); border-color: rgba(93,84,70,0.5); }
+
+.glow-accent { box-shadow: 0 0 0 3px rgba(233,165,33,0.18); }
+.glow-emerald { box-shadow: 0 0 0 3px rgba(125,173,82,0.18); }
+.glow-sm { box-shadow: 0 1px 2px rgba(0,0,0,0.4); }
+
+.mesh-bg { position: relative; }
+
+.noise::after {
+  content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 9999; opacity: 0.025;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  mix-blend-mode: overlay;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+.spinner { border: 2px solid #2A2620; border-top-color: #E9A521; border-radius: 50%; animation: spin 0.7s linear infinite; }
+
+.btn-press { transition: all 0.15s ease; }
+.btn-press:active { transform: scale(0.97); }
+
+/* ─── FOCUS RINGS ──────────────────────────────────────────────────────────
+   Accessible keyboard navigation that doesn't look ugly. Only fires on
+   keyboard focus (not mouse click) so mouse users never see them.
+   The double-ring (offset + amber) reads cleanly on the warm dark bg. */
+*:focus { outline: none; }
+*:focus-visible {
+  outline: 2px solid rgba(233,165,33,0.7);
+  outline-offset: 2px;
+  border-radius: 4px;
+  transition: outline 0.12s ease;
+}
+.btn-primary:focus-visible,
+.btn-secondary:focus-visible,
+.btn-ghost:focus-visible {
+  outline-offset: 3px;
+}
+
+/* ─── PRESSED FEEDBACK ─────────────────────────────────────────────────────
+   Subtle scale-down on click. Pairs with hover's translateY for tactile feel. */
+.btn-primary:active,
+.btn-secondary:active,
+.btn-ghost:active {
+  transform: scale(0.98) translateY(0);
+  transition-duration: 0.08s;
+}
+
+/* ─── INPUT FOCUS ANIMATION ────────────────────────────────────────────────
+   The amber glow ring around inputs animates in instead of jumping. */
+.input { transition: border-color 0.18s ease, background-color 0.18s ease, box-shadow 0.18s cubic-bezier(0.16,1,0.3,1); }
+
+/* ─── SKELETON LOADERS ─────────────────────────────────────────────────────
+   Replaces bare spinners on slow operations. Matches what's loading visually
+   so the page doesn't shift around when content arrives. */
+@keyframes skeleton-shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    #1A1813 0%,
+    #221F19 50%,
+    #1A1813 100%
+  );
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.6s ease-in-out infinite;
+  border-radius: 6px;
+}
+.skeleton-text { height: 0.875em; margin: 0.25em 0; }
+.skeleton-title { height: 1.25em; width: 60%; margin-bottom: 0.5em; }
+.skeleton-block { width: 100%; aspect-ratio: 16/9; border-radius: 8px; }
+
+/* ─── PULSE — for live indicators (Wiz "thinking", scheduler tick, etc.) ─── */
+@keyframes pulse-soft {
+  0%, 100% { opacity: 0.6; transform: scale(1); }
+  50%      { opacity: 1.0; transform: scale(1.06); }
+}
+.pulse-soft { animation: pulse-soft 1.8s cubic-bezier(0.4,0,0.2,1) infinite; }
+
+@keyframes pulse-dot {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(233,165,33,0.5); }
+  50%      { box-shadow: 0 0 0 6px rgba(233,165,33,0); }
+}
+.pulse-dot { animation: pulse-dot 1.8s ease-out infinite; }
+
+/* ─── PAGE TRANSITION CONTAINER ────────────────────────────────────────────
+   Used by AppShell's <AnimatePresence> to wrap each routed page. The
+   negative margin-top stops the slide from creating a scroll jump. */
+.page-enter { transform-origin: top center; }
+
+/* ─── SCROLLBARS ───────────────────────────────────────────────────────────
+   A small detail that makes a big "done" impression. Webkit only — Firefox
+   has its own scrollbar-color property. */
+*::-webkit-scrollbar { width: 10px; height: 10px; }
+*::-webkit-scrollbar-track { background: transparent; }
+*::-webkit-scrollbar-thumb {
+  background: #2A2620;
+  border: 2px solid #0A0908;
+  border-radius: 6px;
+  transition: background 0.18s ease;
+}
+*::-webkit-scrollbar-thumb:hover { background: #3D3830; }
+* { scrollbar-color: #2A2620 transparent; scrollbar-width: thin; }
+
+/* ─── TEXT SELECTION ───────────────────────────────────────────────────────
+   Default browser selection looks blue/awful on warm backgrounds. */
+::selection { background: rgba(233,165,33,0.32); color: #FFFCF5; }
+
+/* Recharts — match new theme */
+.recharts-text { fill: #8B8579; font-family: 'JetBrains Mono', monospace; font-size: 11px; }
+.recharts-cartesian-grid line { stroke: #2A2620; }
+.recharts-tooltip-wrapper { outline: none; }
+.recharts-default-tooltip {
+  background: #1A1813 !important;
+  border: 1px solid #3D3830 !important;
+  border-radius: 8px !important;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.5) !important;
+  padding: 0.5rem 0.75rem !important;
+}
+/* Animate recharts tooltip in/out instead of pop */
+.recharts-tooltip-wrapper {
+  transition: transform 0.18s cubic-bezier(0.16,1,0.3,1) !important;
+}
+
+/* Recharts — speed up the default 1500ms animation. The default is the
+   single biggest reason charts feel "old" — it's slow enough that users
+   start interacting before the chart is done drawing. 600ms with a quick
+   ease-out feels modern. */
+.recharts-bar-rectangle,
+.recharts-area-curve,
+.recharts-line-curve,
+.recharts-pie-sector,
+.recharts-radial-bar-sector {
+  animation-duration: 600ms !important;
+  animation-timing-function: cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+/* Tooltip cursor (the highlight bar/line that follows hover) — fade in/out
+   smoothly instead of jumping. */
+.recharts-tooltip-cursor { transition: opacity 0.15s ease !important; }
+
+/* Active dot on lines — gentle pulse */
+.recharts-active-dot circle {
+  transition: r 0.15s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* ─── REDUCED MOTION ───────────────────────────────────────────────────────
+   Respects the OS-level "Reduce Motion" preference. Required for
+   accessibility — vestibular disorders, nausea triggers, etc. Reduces all
+   motion to ~near-zero without breaking layout. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Animated gradient border (kept for legacy refs but simplified) */
+@property --angle { syntax: '<angle>'; initial-value: 0deg; inherits: false; }
+@keyframes borderSpin { to { --angle: 360deg; } }
+.gradient-border {
+  position: relative; border-radius: 12px; overflow: hidden;
+}

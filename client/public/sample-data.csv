@@ -1,0 +1,1201 @@
+Date,Region,Product,Segment,Channel,Customers,Revenue,Marketing_Spend,Cost_of_Goods,Customer_Satisfaction
+2024-01-01,Asia Pacific,Atlas Lite,Self-Serve,Reseller,65,22605,2801,11432,3.92
+2024-01-02,North America,Nova Edge,Self-Serve,Direct,21,21666,1932,10441,3.54
+2024-01-03,Asia Pacific,Solstice,Enterprise,Partner,60,150042,16198,67033,4.84
+2024-01-04,Europe,Nova Edge,Mid-Market,Direct,83,192748,11016,89416,4.99
+2024-01-05,North America,Nova Edge,Self-Serve,Direct,84,69149,8913,29818,3.73
+2024-01-06,Middle East,Phoenix Pro,Enterprise,Partner,7,12583,1504,6616,3.7
+2024-01-07,Europe,Hyperion X,SMB,Online,10,16229,2036,6611,4.79
+2024-01-08,Europe,Solstice,Self-Serve,Partner,71,33584,3039,18167,4.11
+2024-01-09,Europe,Nova Edge,SMB,Direct,26,35409,3227,15015,4.37
+2024-01-10,Europe,Atlas Lite,Self-Serve,Direct,89,46508,3722,25136,4.38
+2024-01-11,Latin America,Hyperion X,Enterprise,Reseller,22,44851,2412,23402,4.91
+2024-01-12,Latin America,Atlas Lite,SMB,Partner,9,3004,354,1277,3.62
+2024-01-13,Asia Pacific,Nova Edge,Mid-Market,Partner,10,22534,1523,11441,3.52
+2024-01-14,Latin America,Atlas Lite,SMB,Reseller,21,8616,940,4076,4.94
+2024-01-15,Asia Pacific,Atlas Lite,Self-Serve,Partner,33,10986,1256,5019,4.09
+2024-01-16,North America,Atlas Lite,SMB,Online,92,99273,10066,47953,3.57
+2024-01-17,Asia Pacific,Hyperion X,Self-Serve,Reseller,52,30869,3866,16565,4.25
+2024-01-18,North America,Phoenix Pro,SMB,Direct,58,130777,12707,70633,3.68
+2024-01-19,Asia Pacific,Atlas Lite,SMB,Online,37,28886,3240,14623,3.74
+2024-01-20,Middle East,Atlas Lite,Self-Serve,Direct,29,4920,514,2209,4.76
+2024-01-21,Latin America,Phoenix Pro,SMB,Online,18,12331,1144,6085,3.67
+2024-01-22,Europe,Phoenix Pro,Mid-Market,Direct,68,210307,11489,91864,4.43
+2024-01-23,Middle East,Hyperion X,SMB,Online,9,5017,529,2751,4.49
+2024-01-24,Asia Pacific,Hyperion X,Enterprise,Partner,32,126307,10785,63993,4.45
+2024-01-25,Latin America,Phoenix Pro,Self-Serve,Direct,12,3684,237,1524,4.05
+2024-01-26,Middle East,Phoenix Pro,Enterprise,Online,9,15600,1978,7663,4.76
+2024-01-27,Asia Pacific,Phoenix Pro,Enterprise,Direct,56,261918,14890,133896,4.61
+2024-01-28,Middle East,Nova Edge,SMB,Online,13,6476,464,3110,4.99
+2024-01-01,Middle East,Atlas Lite,Self-Serve,Reseller,14,2278,262,915,4.83
+2024-01-02,Asia Pacific,Phoenix Pro,Mid-Market,Online,70,165641,15872,69576,3.61
+2024-01-03,Europe,Phoenix Pro,Enterprise,Direct,16,79292,5633,32991,4.37
+2024-01-04,Middle East,Atlas Lite,Enterprise,Online,16,15777,1242,7925,3.79
+2024-01-05,Middle East,Hyperion X,Mid-Market,Online,28,25946,2117,12921,4.95
+2024-01-06,Middle East,Hyperion X,Enterprise,Direct,27,40336,4021,18855,3.68
+2024-01-07,Europe,Solstice,Self-Serve,Reseller,17,9612,1014,3983,4.23
+2024-01-08,Middle East,Atlas Lite,Self-Serve,Online,21,3100,215,1420,3.6
+2024-01-09,Latin America,Atlas Lite,Enterprise,Partner,17,20011,2583,9155,4.05
+2024-01-10,Latin America,Atlas Lite,Enterprise,Partner,11,12709,800,5959,4.94
+2024-01-11,Latin America,Solstice,SMB,Reseller,30,12816,759,6243,3.94
+2024-01-12,Asia Pacific,Nova Edge,Mid-Market,Online,69,127740,16003,69552,4.51
+2024-01-13,North America,Solstice,Enterprise,Reseller,64,248396,31731,126237,4.58
+2024-01-14,Latin America,Nova Edge,Enterprise,Partner,4,6844,542,3640,4.52
+2024-01-15,North America,Solstice,Self-Serve,Direct,76,52163,5312,21818,4.32
+2024-01-16,North America,Nova Edge,Self-Serve,Reseller,65,67512,3963,27064,4.66
+2024-01-17,Asia Pacific,Nova Edge,SMB,Online,14,15035,1171,7265,4.45
+2024-01-18,Europe,Hyperion X,Self-Serve,Partner,76,61820,5253,32623,3.53
+2024-01-19,Latin America,Solstice,Enterprise,Partner,30,41767,3240,18677,3.83
+2024-01-20,Latin America,Phoenix Pro,Mid-Market,Partner,28,31162,2413,13397,4.74
+2024-01-21,Latin America,Atlas Lite,Mid-Market,Online,24,17240,1117,7944,3.51
+2024-01-22,Asia Pacific,Hyperion X,Mid-Market,Partner,41,94002,9776,44000,4.37
+2024-01-23,Latin America,Solstice,Self-Serve,Direct,19,4132,307,1821,4.16
+2024-01-24,Middle East,Solstice,Enterprise,Reseller,26,27621,1868,12376,4.58
+2024-01-25,Europe,Atlas Lite,Self-Serve,Direct,89,34994,2841,15933,4.59
+2024-01-26,Latin America,Hyperion X,Self-Serve,Partner,28,7944,889,3183,4.2
+2024-01-27,Latin America,Hyperion X,Self-Serve,Online,23,8237,971,3696,4.3
+2024-01-28,North America,Nova Edge,SMB,Online,105,220142,24552,91736,4.19
+2024-01-01,North America,Phoenix Pro,Enterprise,Direct,116,888787,69640,412786,4.13
+2024-01-02,Middle East,Hyperion X,Mid-Market,Online,15,12444,1019,6654,4.53
+2024-01-03,Europe,Solstice,Self-Serve,Online,10,5589,588,2558,4.9
+2024-01-04,Europe,Atlas Lite,Mid-Market,Partner,18,31227,2738,13588,3.91
+2024-01-05,Asia Pacific,Nova Edge,Mid-Market,Direct,69,155110,16608,81520,3.82
+2024-01-06,Middle East,Solstice,SMB,Direct,7,2455,134,1053,4.33
+2024-01-07,Middle East,Solstice,Mid-Market,Partner,7,4620,499,2112,4.44
+2024-01-08,Europe,Nova Edge,SMB,Online,86,121287,13821,64242,4.8
+2024-01-09,Middle East,Phoenix Pro,Enterprise,Direct,23,44574,2784,23068,4.82
+2024-01-10,Latin America,Phoenix Pro,Self-Serve,Online,32,11140,582,5303,4.63
+2024-01-11,North America,Nova Edge,Self-Serve,Online,16,13245,727,6315,4.7
+2024-01-12,Asia Pacific,Nova Edge,SMB,Partner,9,11870,889,5761,4.35
+2024-01-13,Asia Pacific,Atlas Lite,Mid-Market,Partner,26,29989,1743,12677,4.23
+2024-01-14,Middle East,Solstice,Self-Serve,Partner,3,476,45,199,3.5
+2024-01-15,Latin America,Atlas Lite,Enterprise,Direct,6,5977,428,2824,4.19
+2024-01-16,North America,Solstice,Self-Serve,Direct,20,12655,1179,6929,4.08
+2024-01-17,Europe,Atlas Lite,Self-Serve,Partner,82,35177,4197,18567,3.69
+2024-01-18,Latin America,Atlas Lite,SMB,Online,26,9278,929,4624,4.52
+2024-01-19,Asia Pacific,Solstice,SMB,Direct,10,7606,383,3383,4.44
+2024-01-20,North America,Atlas Lite,Mid-Market,Online,30,73500,6441,35340,4.13
+2024-01-21,Europe,Phoenix Pro,Mid-Market,Reseller,34,98530,10640,40347,4.28
+2024-01-22,Asia Pacific,Phoenix Pro,Self-Serve,Partner,67,50924,4910,22896,4.21
+2024-01-23,North America,Nova Edge,Mid-Market,Reseller,18,53079,6285,22086,3.61
+2024-01-24,Middle East,Solstice,Self-Serve,Reseller,18,3557,300,1506,4.59
+2024-01-25,Middle East,Phoenix Pro,Self-Serve,Online,13,4055,323,2045,3.78
+2024-01-26,Europe,Nova Edge,Mid-Market,Direct,77,171978,17023,81983,4.12
+2024-01-27,Asia Pacific,Phoenix Pro,Self-Serve,Partner,27,18728,1976,10016,4.35
+2024-01-28,Europe,Phoenix Pro,Self-Serve,Direct,75,60836,4931,31413,4.2
+2024-01-01,Latin America,Nova Edge,Mid-Market,Reseller,8,7228,819,3751,3.83
+2024-01-02,Latin America,Phoenix Pro,Enterprise,Reseller,19,48193,3897,23494,3.62
+2024-01-03,Asia Pacific,Solstice,Mid-Market,Partner,52,81473,4091,37844,3.96
+2024-01-04,North America,Phoenix Pro,SMB,Reseller,20,56289,5739,27187,4.52
+2024-01-05,Europe,Atlas Lite,SMB,Direct,33,26305,1928,12254,3.89
+2024-01-06,Asia Pacific,Phoenix Pro,SMB,Online,27,41939,4008,19412,4.21
+2024-01-07,Europe,Hyperion X,Enterprise,Online,35,193008,19091,88523,4.79
+2024-01-08,North America,Nova Edge,Enterprise,Partner,74,448676,23876,204810,4.35
+2024-01-09,Latin America,Solstice,SMB,Reseller,13,5432,509,2303,4.81
+2024-01-10,Latin America,Phoenix Pro,Self-Serve,Online,16,5906,748,2911,4.93
+2024-01-11,Asia Pacific,Hyperion X,Enterprise,Partner,17,80048,4435,35301,3.54
+2024-01-12,Asia Pacific,Solstice,SMB,Reseller,11,9389,955,5047,4.61
+2024-01-13,Middle East,Atlas Lite,Mid-Market,Direct,5,2702,240,1318,4.19
+2024-01-14,Middle East,Nova Edge,Self-Serve,Reseller,19,4161,242,1936,4.35
+2024-01-15,Latin America,Nova Edge,Enterprise,Partner,28,46933,2486,21511,3.97
+2024-01-16,Asia Pacific,Nova Edge,Mid-Market,Direct,70,143729,14118,67730,4.01
+2024-02-01,North America,Nova Edge,Self-Serve,Online,71,75221,4955,33099,4.12
+2024-02-02,Latin America,Nova Edge,SMB,Direct,30,14703,1070,7465,4.15
+2024-02-03,North America,Atlas Lite,Enterprise,Partner,54,217145,17559,115041,4.23
+2024-02-04,Asia Pacific,Phoenix Pro,Mid-Market,Reseller,36,104562,6003,46557,4.39
+2024-02-05,Europe,Nova Edge,Mid-Market,Direct,17,39877,4587,21129,4.58
+2024-02-06,Latin America,Solstice,Enterprise,Direct,6,7135,463,3127,4.11
+2024-02-07,Middle East,Phoenix Pro,Enterprise,Online,30,57442,4956,26738,3.88
+2024-02-08,Latin America,Hyperion X,Enterprise,Partner,11,20053,1815,10602,4
+2024-02-09,Latin America,Solstice,Mid-Market,Online,20,14120,1729,7302,4.88
+2024-02-10,Europe,Hyperion X,Mid-Market,Direct,74,231131,27295,117059,3.73
+2024-02-11,Asia Pacific,Solstice,Self-Serve,Reseller,67,33052,2016,17313,4.06
+2024-02-12,Asia Pacific,Phoenix Pro,Self-Serve,Partner,19,14639,1736,7355,4.48
+2024-02-13,Europe,Phoenix Pro,Self-Serve,Reseller,85,73082,5239,33890,4.9
+2024-02-14,Latin America,Nova Edge,Enterprise,Online,25,40752,5290,17126,4.57
+2024-02-15,Asia Pacific,Nova Edge,Enterprise,Partner,15,47514,3015,21258,3.64
+2024-02-16,Middle East,Phoenix Pro,Enterprise,Reseller,18,29677,2369,15810,4.04
+2024-02-17,Asia Pacific,Atlas Lite,SMB,Reseller,47,41046,2387,19266,3.55
+2024-02-18,Middle East,Atlas Lite,SMB,Online,19,5065,270,2181,4.4
+2024-02-19,Asia Pacific,Solstice,Self-Serve,Direct,58,25858,1799,12016,3.95
+2024-02-20,North America,Phoenix Pro,SMB,Reseller,120,262399,20447,130173,3.98
+2024-02-21,North America,Hyperion X,Self-Serve,Direct,27,32391,3566,17486,3.79
+2024-02-22,North America,Atlas Lite,Self-Serve,Online,112,67285,7285,33304,3.5
+2024-02-23,Asia Pacific,Solstice,SMB,Online,19,17555,1009,7487,4.94
+2024-02-24,Europe,Nova Edge,Self-Serve,Partner,12,7901,744,4301,4.75
+2024-02-25,Europe,Phoenix Pro,Self-Serve,Online,83,74384,7269,31496,4.14
+2024-02-26,Middle East,Nova Edge,Enterprise,Reseller,15,20000,1173,8441,3.74
+2024-02-27,North America,Atlas Lite,Mid-Market,Reseller,51,97672,7216,44346,4.95
+2024-02-28,Latin America,Hyperion X,SMB,Partner,34,19760,2122,9158,4.69
+2024-02-01,Latin America,Atlas Lite,Mid-Market,Online,13,7105,798,3447,4.74
+2024-02-02,Middle East,Phoenix Pro,Enterprise,Direct,16,28656,2115,15373,4.53
+2024-02-03,Asia Pacific,Atlas Lite,Self-Serve,Online,53,17299,1195,9219,4.64
+2024-02-04,North America,Phoenix Pro,Enterprise,Direct,84,648129,77571,324364,4.81
+2024-02-05,Asia Pacific,Atlas Lite,Mid-Market,Online,41,50678,3807,21907,4.61
+2024-02-06,Latin America,Nova Edge,Mid-Market,Direct,14,14149,1046,7569,3.83
+2024-02-07,Asia Pacific,Solstice,Mid-Market,Partner,10,16586,1176,7275,3.51
+2024-02-08,Asia Pacific,Phoenix Pro,Enterprise,Online,19,87173,6895,44513,4.2
+2024-02-09,Asia Pacific,Nova Edge,Mid-Market,Partner,55,102963,12600,48898,4.73
+2024-02-10,Europe,Phoenix Pro,Enterprise,Partner,43,225529,24994,102423,3.91
+2024-02-11,Latin America,Phoenix Pro,Enterprise,Online,26,54713,4413,25656,4.82
+2024-02-12,Europe,Solstice,Enterprise,Reseller,60,166444,17929,87787,3.56
+2024-02-13,North America,Phoenix Pro,Self-Serve,Direct,26,30559,1945,13130,4.38
+2024-02-14,North America,Atlas Lite,Enterprise,Partner,38,126958,6500,67538,4.94
+2024-02-15,Latin America,Hyperion X,Enterprise,Partner,26,47745,6130,19114,4.79
+2024-02-16,Middle East,Solstice,Mid-Market,Reseller,21,12211,1034,6539,4.2
+2024-02-17,Europe,Phoenix Pro,Self-Serve,Online,63,58243,4698,26778,4.21
+2024-02-18,North America,Phoenix Pro,Enterprise,Partner,109,753915,68520,390940,4.5
+2024-02-19,Asia Pacific,Nova Edge,Mid-Market,Reseller,62,127449,14257,61655,3.98
+2024-02-20,Latin America,Phoenix Pro,Enterprise,Partner,28,59376,3864,32581,4.02
+2024-02-21,Latin America,Nova Edge,Mid-Market,Direct,18,17926,1697,9843,4.9
+2024-02-22,Europe,Atlas Lite,Mid-Market,Reseller,47,66257,6970,27396,3.66
+2024-02-23,North America,Solstice,Enterprise,Direct,118,457231,56710,201377,3.77
+2024-02-24,Middle East,Hyperion X,Mid-Market,Online,15,13175,1328,6314,4.77
+2024-02-25,Europe,Atlas Lite,Self-Serve,Partner,57,24218,2924,13180,4.26
+2024-02-26,Europe,Solstice,Enterprise,Reseller,62,180929,10240,79945,3.52
+2024-02-27,Middle East,Nova Edge,Enterprise,Direct,17,24179,1757,11831,3.69
+2024-02-28,North America,Hyperion X,Self-Serve,Direct,57,53213,3344,28286,4.68
+2024-02-01,Asia Pacific,Phoenix Pro,Mid-Market,Reseller,18,42629,3994,20036,4.83
+2024-02-02,Latin America,Hyperion X,Self-Serve,Direct,31,10673,559,4445,4.5
+2024-02-03,Europe,Phoenix Pro,Self-Serve,Direct,62,56623,6209,24211,4.06
+2024-02-04,Middle East,Atlas Lite,Mid-Market,Online,11,6226,536,3211,3.71
+2024-02-05,Asia Pacific,Nova Edge,Enterprise,Reseller,66,210711,21873,112142,3.79
+2024-02-06,Middle East,Nova Edge,Mid-Market,Partner,14,12249,935,6667,3.73
+2024-02-07,Europe,Hyperion X,Mid-Market,Direct,78,193206,23120,91794,4.32
+2024-02-08,North America,Atlas Lite,SMB,Direct,116,142776,12484,68200,4.07
+2024-02-09,Europe,Solstice,Enterprise,Direct,76,224477,20610,93265,3.62
+2024-02-10,Europe,Atlas Lite,Mid-Market,Partner,70,121836,13866,65365,4.73
+2024-02-11,Europe,Phoenix Pro,Enterprise,Online,58,298698,18438,141014,4.36
+2024-02-12,Middle East,Hyperion X,SMB,Online,24,12949,660,6491,4.14
+2024-02-13,Europe,Atlas Lite,Enterprise,Direct,68,184144,20484,83417,4.34
+2024-02-14,Latin America,Solstice,SMB,Direct,25,10296,1054,4677,4.45
+2024-02-15,Latin America,Nova Edge,SMB,Reseller,34,20033,2106,9181,3.59
+2024-02-16,North America,Atlas Lite,SMB,Partner,59,80816,9723,41209,3.73
+2024-02-17,Middle East,Solstice,Self-Serve,Reseller,11,1999,120,816,3.92
+2024-02-18,Latin America,Nova Edge,Mid-Market,Online,26,25587,1747,10306,4.6
+2024-02-19,Europe,Atlas Lite,SMB,Reseller,58,52556,6630,23447,3.66
+2024-02-20,North America,Solstice,Self-Serve,Direct,46,31556,2138,15256,4.31
+2024-02-21,Middle East,Hyperion X,Self-Serve,Direct,18,5307,344,2689,4.85
+2024-02-22,Middle East,Solstice,Mid-Market,Reseller,19,10650,1344,4417,4.11
+2024-02-23,Middle East,Solstice,Self-Serve,Partner,11,2028,105,1002,4.97
+2024-02-24,North America,Phoenix Pro,Self-Serve,Direct,92,112513,8506,55139,3.97
+2024-02-25,Latin America,Hyperion X,Self-Serve,Partner,35,12358,1455,5118,4.78
+2024-02-26,Latin America,Hyperion X,Enterprise,Partner,34,66214,6341,33555,3.76
+2024-02-27,North America,Nova Edge,Enterprise,Partner,45,292086,21763,153245,4.27
+2024-02-28,Latin America,Nova Edge,Mid-Market,Online,13,11266,1449,5163,3.54
+2024-02-01,Europe,Solstice,Enterprise,Direct,61,172857,20605,82476,4.42
+2024-02-02,Latin America,Nova Edge,Self-Serve,Online,31,8864,573,4459,4.65
+2024-02-03,Latin America,Hyperion X,Self-Serve,Reseller,6,1999,233,1033,4.19
+2024-02-04,Middle East,Solstice,Enterprise,Online,14,13848,734,6007,4.81
+2024-02-05,Europe,Nova Edge,Self-Serve,Reseller,32,19937,2077,10550,3.75
+2024-02-06,Asia Pacific,Hyperion X,Mid-Market,Online,72,191662,20178,85152,4.11
+2024-02-07,Middle East,Atlas Lite,SMB,Online,21,6170,662,3384,4.29
+2024-02-08,Europe,Hyperion X,Enterprise,Reseller,64,330707,29074,138505,3.65
+2024-02-09,Europe,Atlas Lite,SMB,Reseller,60,53412,2733,24846,4.04
+2024-02-10,Europe,Nova Edge,Mid-Market,Online,32,66873,3514,29218,3.91
+2024-02-11,Asia Pacific,Nova Edge,SMB,Partner,28,35741,3524,18251,3.74
+2024-02-12,Middle East,Nova Edge,Mid-Market,Partner,18,16086,1267,7725,3.55
+2024-02-13,Latin America,Phoenix Pro,SMB,Online,11,7779,913,3337,4.2
+2024-02-14,Middle East,Nova Edge,Mid-Market,Online,14,11548,1055,5039,4.82
+2024-02-15,North America,Atlas Lite,SMB,Online,41,45522,3582,19259,4.57
+2024-02-16,Asia Pacific,Solstice,Self-Serve,Direct,47,19227,1011,8645,4.84
+2024-03-01,Latin America,Solstice,Self-Serve,Online,12,2069,133,1064,3.6
+2024-03-02,Middle East,Phoenix Pro,SMB,Partner,12,8008,920,3715,3.92
+2024-03-03,Latin America,Phoenix Pro,Mid-Market,Reseller,17,23110,2300,9763,4.1
+2024-03-04,Europe,Nova Edge,Self-Serve,Partner,59,35012,2069,14998,4.27
+2024-03-05,Latin America,Atlas Lite,Enterprise,Direct,6,6449,639,2662,4.12
+2024-03-06,Europe,Phoenix Pro,SMB,Reseller,52,93699,8293,40539,4.07
+2024-03-07,North America,Nova Edge,Mid-Market,Online,77,236499,14956,115954,4.86
+2024-03-08,Latin America,Solstice,Enterprise,Online,11,15735,1438,7744,4.96
+2024-03-09,North America,Nova Edge,SMB,Partner,93,177423,22128,96702,4.8
+2024-03-10,Asia Pacific,Hyperion X,SMB,Online,48,66767,8319,32405,3.58
+2024-03-11,Asia Pacific,Phoenix Pro,Mid-Market,Reseller,60,149986,8150,63946,4.07
+2024-03-12,Asia Pacific,Atlas Lite,Mid-Market,Reseller,54,73316,4359,30732,4.62
+2024-03-13,Asia Pacific,Phoenix Pro,Enterprise,Direct,20,92593,9919,38668,3.86
+2024-03-14,Latin America,Atlas Lite,Self-Serve,Partner,32,5537,438,2244,4.03
+2024-03-15,Europe,Atlas Lite,Self-Serve,Direct,50,21733,2048,11549,3.82
+2024-03-16,North America,Atlas Lite,Mid-Market,Partner,27,55324,3859,28084,4.37
+2024-03-17,Europe,Hyperion X,Enterprise,Online,35,155724,10478,85171,3.97
+2024-03-18,Middle East,Solstice,Self-Serve,Reseller,21,3310,172,1818,3.64
+2024-03-19,Europe,Atlas Lite,Self-Serve,Reseller,20,9463,657,4451,4.7
+2024-03-20,Asia Pacific,Phoenix Pro,Self-Serve,Reseller,66,44493,2495,21216,4.97
+2024-03-21,North America,Solstice,SMB,Partner,105,152236,11412,61857,4.58
+2024-03-22,North America,Hyperion X,Self-Serve,Direct,28,30166,2180,13217,4.84
+2024-03-23,North America,Solstice,SMB,Direct,45,56317,5315,22944,4.84
+2024-03-24,Asia Pacific,Solstice,Enterprise,Partner,48,114927,11442,59817,4.91
+2024-03-25,Middle East,Phoenix Pro,Self-Serve,Reseller,3,825,87,341,4.52
+2024-03-26,North America,Nova Edge,Mid-Market,Online,38,138266,14990,61213,3.65
+2024-03-27,Europe,Nova Edge,Mid-Market,Direct,42,91821,5864,36861,3.59
+2024-03-28,Middle East,Nova Edge,Mid-Market,Reseller,4,3618,369,1962,4.97
+2024-03-01,Europe,Solstice,Mid-Market,Partner,47,91241,10504,44616,4.39
+2024-03-02,Asia Pacific,Solstice,Enterprise,Reseller,23,60975,7795,30175,4.87
+2024-03-03,Middle East,Atlas Lite,SMB,Online,6,1692,156,742,3.95
+2024-03-04,Latin America,Atlas Lite,Mid-Market,Partner,4,2237,163,960,3.94
+2024-03-05,Asia Pacific,Nova Edge,Mid-Market,Partner,37,70374,6290,30849,4.36
+2024-03-06,Europe,Solstice,Mid-Market,Direct,10,18753,1936,7857,3.84
+2024-03-07,North America,Atlas Lite,Self-Serve,Direct,77,45760,5768,24833,3.73
+2024-03-08,Europe,Phoenix Pro,Enterprise,Partner,72,439716,48450,228650,4.25
+2024-03-09,Europe,Solstice,Mid-Market,Reseller,42,68967,5088,32133,4.58
+2024-03-10,Middle East,Atlas Lite,Mid-Market,Direct,16,8730,1131,3539,3.55
+2024-03-11,Europe,Nova Edge,Mid-Market,Online,80,177966,12800,96162,3.62
+2024-03-12,Middle East,Atlas Lite,Self-Serve,Reseller,25,4016,499,2017,4.48
+2024-03-13,Asia Pacific,Phoenix Pro,Enterprise,Partner,36,154203,15920,69048,3.66
+2024-03-14,Asia Pacific,Atlas Lite,Mid-Market,Online,33,43615,4886,19134,3.51
+2024-03-15,Asia Pacific,Solstice,SMB,Direct,37,35231,3759,15997,4.88
+2024-03-16,Asia Pacific,Nova Edge,SMB,Online,59,63876,6258,25668,4.71
+2024-03-17,Latin America,Phoenix Pro,Mid-Market,Reseller,9,9724,679,4746,4.9
+2024-03-18,Latin America,Solstice,Enterprise,Reseller,5,6307,788,3339,4.48
+2024-03-19,North America,Hyperion X,Self-Serve,Direct,19,19517,2268,9809,4.42
+2024-03-20,North America,Solstice,SMB,Direct,72,108991,14050,46921,4.66
+2024-03-21,Latin America,Nova Edge,SMB,Direct,29,16758,1648,8871,4.45
+2024-03-22,Latin America,Phoenix Pro,Enterprise,Reseller,20,50198,6197,21209,4.16
+2024-03-23,North America,Nova Edge,Self-Serve,Online,81,75265,4909,41247,4.85
+2024-03-24,Middle East,Phoenix Pro,Self-Serve,Partner,11,2984,312,1216,4.93
+2024-03-25,Middle East,Phoenix Pro,SMB,Partner,5,3504,296,1887,4.51
+2024-03-26,Europe,Atlas Lite,Enterprise,Online,78,251780,25769,106378,4.16
+2024-03-27,North America,Atlas Lite,Enterprise,Partner,35,139575,13619,56312,4.87
+2024-03-28,Asia Pacific,Nova Edge,Mid-Market,Partner,34,70597,7616,37193,3.56
+2024-03-01,Middle East,Hyperion X,Self-Serve,Reseller,19,5001,281,2413,4.66
+2024-03-02,Latin America,Phoenix Pro,Enterprise,Reseller,19,45302,5490,20589,4.36
+2024-03-03,Europe,Nova Edge,Self-Serve,Direct,81,51071,6140,27576,4.97
+2024-03-04,North America,Solstice,Enterprise,Partner,20,77189,5489,37586,3.79
+2024-03-05,Europe,Nova Edge,SMB,Online,25,30944,3204,14695,4.96
+2024-03-06,Europe,Nova Edge,Self-Serve,Reseller,15,10694,1195,4460,3.82
+2024-03-07,North America,Hyperion X,Self-Serve,Partner,107,97800,9107,48231,3.51
+2024-03-08,North America,Phoenix Pro,Enterprise,Reseller,72,548877,36619,289312,4.69
+2024-03-09,North America,Atlas Lite,Mid-Market,Partner,58,117260,8460,51107,4.9
+2024-03-10,Middle East,Solstice,Mid-Market,Online,8,5315,277,2172,4.42
+2024-03-11,Middle East,Atlas Lite,Mid-Market,Partner,25,15223,1801,6815,4.07
+2024-03-12,Latin America,Solstice,Enterprise,Reseller,22,30411,3318,12944,4.41
+2024-03-13,North America,Solstice,Mid-Market,Online,85,194207,11802,79552,4.06
+2024-03-14,Middle East,Nova Edge,Self-Serve,Partner,20,4890,630,2512,3.67
+2024-03-15,Asia Pacific,Hyperion X,Enterprise,Partner,49,225961,23970,103601,4.7
+2024-03-16,Asia Pacific,Phoenix Pro,Mid-Market,Reseller,10,25545,2211,11489,4.88
+2024-03-17,Latin America,Atlas Lite,Self-Serve,Partner,14,2757,246,1480,4.71
+2024-03-18,Europe,Solstice,Mid-Market,Partner,65,116434,6588,48866,4.79
+2024-03-19,Asia Pacific,Solstice,Self-Serve,Reseller,34,13276,1708,6539,4.87
+2024-03-20,Latin America,Solstice,Enterprise,Reseller,5,6428,647,2933,4.6
+2024-03-21,North America,Solstice,Enterprise,Reseller,92,432720,38908,227865,4.26
+2024-03-22,North America,Atlas Lite,Mid-Market,Online,62,148037,15714,75947,4.15
+2024-03-23,Asia Pacific,Nova Edge,Mid-Market,Direct,52,110988,13839,46935,4.26
+2024-03-24,Latin America,Nova Edge,Enterprise,Direct,18,33413,2327,16081,3.58
+2024-03-25,Middle East,Solstice,Self-Serve,Partner,29,5408,319,2711,4.03
+2024-03-26,Europe,Nova Edge,Mid-Market,Partner,84,209972,14163,89467,3.75
+2024-03-27,Latin America,Phoenix Pro,SMB,Partner,13,8312,822,4326,4.83
+2024-03-28,Latin America,Solstice,SMB,Reseller,30,12904,936,6840,3.95
+2024-03-01,North America,Nova Edge,SMB,Partner,57,110427,8202,47597,3.62
+2024-03-02,Europe,Phoenix Pro,Self-Serve,Reseller,61,64575,5302,31644,4.14
+2024-03-03,Middle East,Solstice,Mid-Market,Online,21,13552,761,7327,4.94
+2024-03-04,North America,Hyperion X,SMB,Direct,31,75044,7420,33433,4.06
+2024-03-05,Asia Pacific,Phoenix Pro,Mid-Market,Partner,48,129615,10130,62866,4.24
+2024-03-06,Middle East,Nova Edge,Self-Serve,Direct,21,4743,513,2512,3.76
+2024-03-07,Asia Pacific,Atlas Lite,Self-Serve,Online,65,26251,2588,10790,4.05
+2024-03-08,Asia Pacific,Phoenix Pro,Enterprise,Partner,33,149495,10077,63207,4.67
+2024-03-09,Asia Pacific,Phoenix Pro,Mid-Market,Online,58,159800,13969,86424,4.35
+2024-03-10,Asia Pacific,Nova Edge,SMB,Online,67,84865,7659,34457,4.69
+2024-03-11,Asia Pacific,Phoenix Pro,Enterprise,Online,9,47721,4368,25775,4.43
+2024-03-12,Europe,Solstice,Self-Serve,Online,51,24079,2539,12922,4.62
+2024-03-13,Middle East,Solstice,Self-Serve,Partner,19,3536,283,1626,4.86
+2024-03-14,Latin America,Solstice,SMB,Online,17,6871,579,3774,4.49
+2024-03-15,North America,Hyperion X,Mid-Market,Reseller,46,180460,23053,74362,4.33
+2024-03-16,Europe,Solstice,SMB,Reseller,24,25673,3019,10277,4.42
+2024-04-01,Asia Pacific,Atlas Lite,Self-Serve,Online,24,9716,1109,4232,3.88
+2024-04-02,Asia Pacific,Solstice,Self-Serve,Direct,26,10687,1023,4328,4.75
+2024-04-03,Europe,Atlas Lite,Self-Serve,Reseller,39,18206,2343,9661,4.64
+2024-04-04,Europe,Nova Edge,Self-Serve,Online,83,59257,4785,25591,4.85
+2024-04-05,Middle East,Atlas Lite,Mid-Market,Reseller,15,8114,706,3694,4.93
+2024-04-06,North America,Atlas Lite,Mid-Market,Reseller,119,238183,12623,98870,3.9
+2024-04-07,Asia Pacific,Solstice,SMB,Reseller,39,34241,4027,18231,4.03
+2024-04-08,Latin America,Solstice,Enterprise,Partner,10,12838,1174,6641,3.53
+2024-04-09,Latin America,Nova Edge,Self-Serve,Reseller,15,4525,370,2029,4.29
+2024-04-10,Asia Pacific,Hyperion X,Enterprise,Online,73,313079,34207,159961,4.56
+2024-04-11,Latin America,Nova Edge,Mid-Market,Online,16,14502,1732,6443,4.32
+2024-04-12,Middle East,Hyperion X,SMB,Direct,21,11050,879,5698,4.47
+2024-04-13,Europe,Nova Edge,SMB,Partner,77,98586,9480,42178,4.22
+2024-04-14,Europe,Phoenix Pro,Enterprise,Partner,35,196190,20779,101040,4.1
+2024-04-15,North America,Phoenix Pro,SMB,Partner,102,233552,12946,94666,4.47
+2024-04-16,Europe,Atlas Lite,Self-Serve,Partner,34,16856,1748,8281,3.6
+2024-04-17,Asia Pacific,Nova Edge,Enterprise,Reseller,65,229118,16350,102995,4.04
+2024-04-18,Asia Pacific,Atlas Lite,SMB,Partner,65,52344,5292,22623,4.49
+2024-04-19,North America,Solstice,Enterprise,Online,34,149838,14112,65732,4.53
+2024-04-20,Europe,Hyperion X,Self-Serve,Direct,84,76871,7767,32530,3.87
+2024-04-21,Asia Pacific,Hyperion X,Mid-Market,Online,30,60712,3196,28604,4.53
+2024-04-22,North America,Atlas Lite,Enterprise,Reseller,67,276915,30642,134403,3.82
+2024-04-23,Europe,Nova Edge,Enterprise,Partner,83,409082,32002,224639,3.86
+2024-04-24,Europe,Hyperion X,Self-Serve,Reseller,70,50185,3963,21223,4.01
+2024-04-25,Middle East,Atlas Lite,SMB,Partner,12,3715,226,1624,3.91
+2024-04-26,Asia Pacific,Solstice,Self-Serve,Partner,31,14928,1579,6951,3.55
+2024-04-27,Latin America,Hyperion X,Mid-Market,Reseller,24,23246,1532,9400,3.99
+2024-04-28,Middle East,Nova Edge,SMB,Online,8,3757,262,1855,4.62
+2024-04-01,Asia Pacific,Hyperion X,Mid-Market,Reseller,23,60794,4306,29653,3.89
+2024-04-02,Middle East,Nova Edge,Enterprise,Reseller,20,25161,1333,11027,4.3
+2024-04-03,Latin America,Atlas Lite,SMB,Direct,12,4658,462,2488,4.46
+2024-04-04,Middle East,Nova Edge,Enterprise,Reseller,6,7949,1002,3969,4.03
+2024-04-05,Middle East,Nova Edge,Mid-Market,Reseller,20,14910,1446,5982,3.96
+2024-04-06,North America,Hyperion X,SMB,Online,98,196056,24272,105638,4.18
+2024-04-07,Middle East,Hyperion X,Self-Serve,Partner,7,1918,136,968,4.08
+2024-04-08,Europe,Phoenix Pro,Self-Serve,Partner,34,28692,1807,11519,3.64
+2024-04-09,Asia Pacific,Nova Edge,Self-Serve,Reseller,15,8909,1025,3637,3.5
+2024-04-10,Europe,Solstice,Self-Serve,Reseller,23,11923,1223,5301,4.8
+2024-04-11,Latin America,Nova Edge,Enterprise,Direct,33,54205,4321,27775,4.2
+2024-04-12,Asia Pacific,Phoenix Pro,SMB,Reseller,67,98648,7761,53927,4.94
+2024-04-13,Asia Pacific,Phoenix Pro,SMB,Direct,8,10660,937,5546,3.51
+2024-04-14,Latin America,Phoenix Pro,Enterprise,Direct,6,15181,1258,8322,4.4
+2024-04-15,Europe,Nova Edge,SMB,Reseller,26,32531,2464,14565,3.51
+2024-04-16,Europe,Nova Edge,Mid-Market,Online,39,92661,9818,49295,4.83
+2024-04-17,Latin America,Solstice,Enterprise,Partner,21,29909,2013,15954,4.42
+2024-04-18,North America,Nova Edge,Mid-Market,Partner,77,245917,20039,105471,5
+2024-04-19,Latin America,Phoenix Pro,Self-Serve,Direct,14,5182,425,2519,4.33
+2024-04-20,Europe,Atlas Lite,Mid-Market,Reseller,78,132875,9016,67291,4.66
+2024-04-21,Asia Pacific,Hyperion X,Mid-Market,Partner,43,110587,8151,49452,4.07
+2024-04-22,Europe,Atlas Lite,Mid-Market,Partner,47,82799,8616,34296,4.24
+2024-04-23,Middle East,Phoenix Pro,SMB,Online,21,12995,1334,5659,3.95
+2024-04-24,Latin America,Nova Edge,SMB,Online,31,15005,1505,8240,4.2
+2024-04-25,Europe,Solstice,Enterprise,Online,50,155245,13957,65155,4.32
+2024-04-26,Asia Pacific,Phoenix Pro,SMB,Direct,51,81709,9068,41599,3.72
+2024-04-27,Asia Pacific,Atlas Lite,Mid-Market,Partner,50,62813,7228,30121,3.83
+2024-04-28,Latin America,Phoenix Pro,Mid-Market,Direct,25,33298,3235,15026,3.98
+2024-04-01,North America,Atlas Lite,Enterprise,Reseller,101,348990,33610,162709,4.67
+2024-04-02,Middle East,Atlas Lite,Self-Serve,Reseller,22,3639,371,1664,4.44
+2024-04-03,Middle East,Nova Edge,Mid-Market,Reseller,28,19201,1951,9610,4.08
+2024-04-04,Latin America,Nova Edge,Enterprise,Reseller,12,19920,1194,8734,4.7
+2024-04-05,Europe,Phoenix Pro,SMB,Online,65,106730,11599,50446,3.74
+2024-04-06,North America,Solstice,SMB,Partner,78,107792,10081,54670,3.87
+2024-04-07,Latin America,Hyperion X,SMB,Direct,19,11596,597,4661,4.39
+2024-04-08,Asia Pacific,Atlas Lite,SMB,Partner,24,19876,1902,10499,4.77
+2024-04-09,Latin America,Phoenix Pro,Mid-Market,Online,32,41881,4950,23006,3.65
+2024-04-10,North America,Hyperion X,SMB,Direct,25,51959,6050,26028,4.24
+2024-04-11,Asia Pacific,Nova Edge,Self-Serve,Direct,54,27035,3054,11424,4.6
+2024-04-12,Middle East,Phoenix Pro,Self-Serve,Reseller,20,5296,542,2827,3.98
+2024-04-13,Asia Pacific,Solstice,SMB,Partner,14,10501,1048,4429,4.68
+2024-04-14,North America,Solstice,SMB,Direct,73,104401,10947,53283,3.62
+2024-04-15,Middle East,Phoenix Pro,Enterprise,Direct,28,49180,5032,24607,3.82
+2024-04-16,Latin America,Nova Edge,Mid-Market,Reseller,11,9110,1141,3741,3.5
+2024-04-17,North America,Solstice,SMB,Partner,109,150843,15440,79596,3.78
+2024-04-18,North America,Solstice,Enterprise,Direct,56,226690,24796,93039,3.51
+2024-04-19,Middle East,Phoenix Pro,SMB,Reseller,12,7959,691,3728,4.13
+2024-04-20,Middle East,Atlas Lite,Mid-Market,Reseller,12,6315,648,3299,4.35
+2024-04-21,Europe,Hyperion X,Self-Serve,Direct,65,53250,3790,25558,4.81
+2024-04-22,Middle East,Phoenix Pro,Self-Serve,Partner,29,8854,454,4102,4.11
+2024-04-23,Latin America,Hyperion X,Enterprise,Partner,12,22620,2002,11161,4.43
+2024-04-24,Asia Pacific,Nova Edge,Self-Serve,Reseller,14,8254,801,4470,3.92
+2024-04-25,Asia Pacific,Phoenix Pro,Enterprise,Direct,20,92254,10358,46429,4.47
+2024-04-26,North America,Phoenix Pro,Mid-Market,Online,72,301334,28298,152071,4.83
+2024-04-27,Latin America,Phoenix Pro,Mid-Market,Reseller,27,32414,1896,16991,4.51
+2024-04-28,Asia Pacific,Solstice,Self-Serve,Partner,69,25417,1285,10559,4.43
+2024-04-01,Middle East,Phoenix Pro,Mid-Market,Partner,20,23880,1886,12074,4.53
+2024-04-02,Middle East,Solstice,Mid-Market,Direct,28,19466,1446,10025,3.74
+2024-04-03,Latin America,Phoenix Pro,SMB,Partner,34,25243,2459,12725,3.6
+2024-04-04,Europe,Hyperion X,Self-Serve,Reseller,64,58426,5157,27385,4.98
+2024-04-05,North America,Solstice,Self-Serve,Online,31,19143,1006,9226,4.01
+2024-04-06,Europe,Hyperion X,Enterprise,Online,26,140040,15513,76076,4.34
+2024-04-07,Asia Pacific,Phoenix Pro,Enterprise,Reseller,67,310935,31900,129420,4.39
+2024-04-08,North America,Phoenix Pro,Enterprise,Partner,18,134312,8264,67979,4.41
+2024-04-09,Europe,Solstice,Enterprise,Online,52,168410,11252,73884,4.17
+2024-04-10,Asia Pacific,Nova Edge,Enterprise,Reseller,17,57911,5773,26669,4.96
+2024-04-11,Europe,Nova Edge,Mid-Market,Reseller,53,143379,8331,66819,3.8
+2024-04-12,Middle East,Solstice,Mid-Market,Partner,24,14074,1040,5922,4.9
+2024-04-13,Middle East,Phoenix Pro,Self-Serve,Online,5,1325,169,666,4.18
+2024-04-14,North America,Nova Edge,Enterprise,Reseller,59,301664,37614,145979,4.82
+2024-04-15,Europe,Solstice,Self-Serve,Direct,13,6918,354,3490,4.7
+2024-04-16,Asia Pacific,Phoenix Pro,Self-Serve,Reseller,72,52498,5593,28447,4.05
+2024-05-01,Middle East,Atlas Lite,Mid-Market,Direct,11,6720,408,3548,4.64
+2024-05-02,Middle East,Solstice,SMB,Online,29,8735,925,3854,3.6
+2024-05-03,North America,Solstice,Enterprise,Direct,103,457585,50655,226281,4.85
+2024-05-04,Middle East,Nova Edge,Self-Serve,Partner,13,2658,269,1166,3.85
+2024-05-05,North America,Phoenix Pro,Mid-Market,Reseller,23,110135,13435,54311,4.51
+2024-05-06,Asia Pacific,Solstice,SMB,Online,24,22271,1634,10643,4.93
+2024-05-07,Europe,Hyperion X,Enterprise,Online,12,62540,4414,33218,3.96
+2024-05-08,Latin America,Solstice,Self-Serve,Reseller,31,7140,679,3500,4.09
+2024-05-09,Latin America,Phoenix Pro,Mid-Market,Reseller,23,31320,1725,15089,4.92
+2024-05-10,North America,Atlas Lite,SMB,Reseller,92,127569,11727,70127,4.73
+2024-05-11,Europe,Solstice,Enterprise,Reseller,14,51221,4170,28061,4.02
+2024-05-12,Europe,Solstice,Self-Serve,Partner,15,8419,691,4058,4.52
+2024-05-13,Latin America,Atlas Lite,Enterprise,Direct,19,19080,1346,8284,3.65
+2024-05-14,Asia Pacific,Solstice,SMB,Reseller,73,56580,4062,28740,3.94
+2024-05-15,Middle East,Atlas Lite,Enterprise,Direct,24,22921,1639,12564,4.62
+2024-05-16,Middle East,Atlas Lite,Self-Serve,Partner,19,2804,292,1237,3.54
+2024-05-17,Middle East,Hyperion X,Self-Serve,Partner,18,4416,497,1840,3.53
+2024-05-18,North America,Phoenix Pro,Mid-Market,Partner,30,135215,16020,60686,4.69
+2024-05-19,North America,Hyperion X,Enterprise,Online,24,173191,11563,83156,4.46
+2024-05-20,Europe,Hyperion X,Self-Serve,Partner,19,14713,1222,7681,4.05
+2024-05-21,Europe,Atlas Lite,Enterprise,Direct,73,217790,16773,92230,3.8
+2024-05-22,Latin America,Phoenix Pro,SMB,Online,19,12700,833,5941,3.52
+2024-05-23,Europe,Solstice,Self-Serve,Reseller,66,31937,2242,14855,4.31
+2024-05-24,Latin America,Nova Edge,Mid-Market,Online,18,16560,1096,9070,4.97
+2024-05-25,Middle East,Hyperion X,Mid-Market,Direct,5,4567,372,2095,5
+2024-05-26,Europe,Hyperion X,Enterprise,Partner,81,461953,29605,215615,4.91
+2024-05-27,Middle East,Nova Edge,Mid-Market,Reseller,6,4249,492,1900,3.52
+2024-05-28,Europe,Nova Edge,Self-Serve,Partner,58,36666,2496,16983,4.65
+2024-05-01,Asia Pacific,Nova Edge,Enterprise,Reseller,56,213858,18186,85604,3.98
+2024-05-02,Latin America,Solstice,Self-Serve,Reseller,11,2502,302,1249,4.52
+2024-05-03,North America,Nova Edge,Mid-Market,Online,39,137435,15823,74958,4.27
+2024-05-04,Latin America,Hyperion X,Enterprise,Reseller,14,29147,3735,13080,4.02
+2024-05-05,North America,Phoenix Pro,Mid-Market,Direct,31,113367,10099,54592,5
+2024-05-06,Middle East,Solstice,SMB,Online,29,9854,535,5315,4.27
+2024-05-07,Latin America,Solstice,SMB,Direct,26,9173,1053,4800,4.02
+2024-05-08,Europe,Solstice,Mid-Market,Direct,19,35439,2136,14377,4.88
+2024-05-09,Middle East,Hyperion X,Enterprise,Partner,15,24210,2695,10513,4.51
+2024-05-10,Middle East,Atlas Lite,Enterprise,Reseller,8,8283,1028,3556,4.46
+2024-05-11,Asia Pacific,Hyperion X,Enterprise,Online,32,130553,15834,57082,4.7
+2024-05-12,Middle East,Hyperion X,SMB,Partner,9,5214,384,2547,4.06
+2024-05-13,Middle East,Hyperion X,Enterprise,Direct,30,53132,2817,26695,4.21
+2024-05-14,Middle East,Atlas Lite,SMB,Partner,24,6984,486,3619,4.38
+2024-05-15,Latin America,Hyperion X,SMB,Partner,6,3814,240,1627,4.67
+2024-05-16,Asia Pacific,Phoenix Pro,Self-Serve,Direct,50,38930,4115,15683,3.52
+2024-05-17,Europe,Hyperion X,Self-Serve,Partner,18,16172,2047,8532,3.7
+2024-05-18,Europe,Solstice,Enterprise,Reseller,86,311079,37738,148384,4.61
+2024-05-19,Europe,Solstice,Self-Serve,Online,70,36835,2666,16854,4.33
+2024-05-20,Latin America,Atlas Lite,Mid-Market,Partner,33,21686,1199,10213,4.47
+2024-05-21,Asia Pacific,Hyperion X,SMB,Partner,42,63132,4896,31513,4.65
+2024-05-22,Middle East,Phoenix Pro,SMB,Online,7,4885,348,2453,4.96
+2024-05-23,Latin America,Nova Edge,SMB,Online,30,17505,1788,9382,4.69
+2024-05-24,Latin America,Hyperion X,Self-Serve,Partner,34,11779,1393,6257,4.26
+2024-05-25,North America,Solstice,Enterprise,Reseller,90,388137,35741,179190,4.46
+2024-05-26,North America,Nova Edge,SMB,Reseller,100,161268,19127,88219,4.81
+2024-05-27,Middle East,Nova Edge,Self-Serve,Reseller,6,1283,126,706,3.66
+2024-05-28,Asia Pacific,Nova Edge,Enterprise,Reseller,52,180890,11567,95654,3.88
+2024-05-01,North America,Nova Edge,SMB,Online,35,62559,6284,30652,4.48
+2024-05-02,Asia Pacific,Nova Edge,Self-Serve,Partner,35,18522,1178,7664,4.32
+2024-05-03,Middle East,Phoenix Pro,Enterprise,Partner,29,61292,3348,32704,3.82
+2024-05-04,North America,Hyperion X,Mid-Market,Reseller,60,219557,21576,98980,4.06
+2024-05-05,North America,Phoenix Pro,Mid-Market,Direct,59,232222,27362,123145,4.38
+2024-05-06,Europe,Phoenix Pro,SMB,Online,79,164358,20419,73710,3.81
+2024-05-07,Europe,Phoenix Pro,Enterprise,Reseller,89,514744,39195,269342,3.77
+2024-05-08,Asia Pacific,Solstice,Self-Serve,Direct,69,32528,2215,13621,4.43
+2024-05-09,Europe,Hyperion X,Self-Serve,Partner,57,50791,5458,23612,4.37
+2024-05-10,Latin America,Phoenix Pro,Self-Serve,Partner,7,2492,283,1026,3.5
+2024-05-11,Middle East,Solstice,Self-Serve,Online,11,1778,144,861,4.28
+2024-05-12,Asia Pacific,Solstice,SMB,Partner,64,55963,4304,23520,4.88
+2024-05-13,Europe,Atlas Lite,Mid-Market,Partner,54,95615,8342,43518,4.06
+2024-05-14,Middle East,Hyperion X,Self-Serve,Partner,16,4091,487,1764,4.24
+2024-05-15,Middle East,Phoenix Pro,SMB,Direct,23,15370,863,7568,4.86
+2024-05-16,North America,Hyperion X,Mid-Market,Reseller,26,104467,10080,46317,3.54
+2024-05-17,Latin America,Solstice,Mid-Market,Direct,26,19515,1262,8998,4.92
+2024-05-18,Middle East,Solstice,SMB,Reseller,14,4664,486,1894,4.78
+2024-05-19,Middle East,Atlas Lite,Mid-Market,Direct,16,8369,1027,4541,3.94
+2024-05-20,North America,Atlas Lite,Mid-Market,Direct,106,215971,26090,115010,3.6
+2024-05-21,Middle East,Nova Edge,Self-Serve,Online,19,4104,514,1662,4.02
+2024-05-22,Asia Pacific,Hyperion X,Enterprise,Online,74,278363,16034,128657,3.55
+2024-05-23,North America,Solstice,SMB,Reseller,70,91979,11500,39008,4.82
+2024-05-24,Latin America,Nova Edge,Mid-Market,Online,18,19143,2285,8725,4.73
+2024-05-25,Asia Pacific,Phoenix Pro,Enterprise,Direct,21,86034,4787,35409,4.97
+2024-05-26,Asia Pacific,Atlas Lite,Mid-Market,Direct,40,46086,5666,19335,3.52
+2024-05-27,North America,Phoenix Pro,Mid-Market,Online,25,94424,5647,48731,3.76
+2024-05-28,North America,Solstice,SMB,Direct,13,17629,1736,7865,4.8
+2024-05-01,Latin America,Hyperion X,Self-Serve,Direct,18,6009,715,2864,4.84
+2024-05-02,Asia Pacific,Nova Edge,Mid-Market,Reseller,10,21056,1385,10930,4.5
+2024-05-03,Asia Pacific,Hyperion X,SMB,Online,24,27884,3346,14658,3.68
+2024-05-04,Europe,Hyperion X,Enterprise,Reseller,82,428799,55087,208281,3.7
+2024-05-05,Latin America,Atlas Lite,Self-Serve,Online,10,1695,158,869,3.63
+2024-05-06,Latin America,Nova Edge,Mid-Market,Direct,6,5220,605,2689,3.9
+2024-05-07,Asia Pacific,Hyperion X,Mid-Market,Reseller,14,31868,2212,12851,4.89
+2024-05-08,Europe,Solstice,Enterprise,Online,66,199032,12280,95461,3.92
+2024-05-09,Asia Pacific,Hyperion X,Enterprise,Reseller,35,140340,10430,56830,4.37
+2024-05-10,Asia Pacific,Solstice,SMB,Partner,46,36353,2769,16330,3.79
+2024-05-11,Europe,Nova Edge,Enterprise,Direct,88,425348,49634,203584,4.89
+2024-05-12,Latin America,Atlas Lite,Self-Serve,Partner,14,2155,122,872,3.82
+2024-05-13,Europe,Phoenix Pro,Enterprise,Direct,12,68304,4561,30506,3.83
+2024-05-14,North America,Solstice,Mid-Market,Reseller,81,217079,20748,115620,3.63
+2024-05-15,Latin America,Hyperion X,Enterprise,Partner,8,16425,2083,8646,3.53
+2024-05-16,Middle East,Solstice,Mid-Market,Direct,8,4152,472,2029,3.83
+2024-06-01,Asia Pacific,Atlas Lite,Mid-Market,Direct,53,61475,7359,30792,4.28
+2024-06-02,Middle East,Atlas Lite,Mid-Market,Reseller,21,10679,1165,5439,4.63
+2024-06-03,Europe,Solstice,Mid-Market,Direct,26,53332,3003,21636,3.59
+2024-06-04,North America,Phoenix Pro,Self-Serve,Online,119,160184,17888,79982,4.25
+2024-06-05,Latin America,Hyperion X,Enterprise,Direct,15,31367,4009,14741,4.35
+2024-06-06,Asia Pacific,Atlas Lite,Mid-Market,Online,43,65016,3360,28710,4.22
+2024-06-07,Europe,Phoenix Pro,Mid-Market,Partner,38,131772,9295,71550,4.5
+2024-06-08,Middle East,Atlas Lite,Mid-Market,Direct,5,2993,317,1638,4.54
+2024-06-09,Europe,Atlas Lite,Enterprise,Reseller,16,46632,2824,23846,4.34
+2024-06-10,Asia Pacific,Hyperion X,Mid-Market,Reseller,45,109118,8613,46258,4.94
+2024-06-11,Asia Pacific,Phoenix Pro,Self-Serve,Online,68,47554,2620,25472,4.22
+2024-06-12,Middle East,Phoenix Pro,Mid-Market,Partner,11,11346,970,4618,3.63
+2024-06-13,North America,Hyperion X,Mid-Market,Partner,31,130711,9120,71074,3.89
+2024-06-14,Europe,Atlas Lite,Enterprise,Reseller,47,149709,14143,78220,4.43
+2024-06-15,Europe,Hyperion X,Enterprise,Direct,84,377996,19643,151739,4.78
+2024-06-16,Middle East,Atlas Lite,SMB,Direct,5,1428,173,777,4.97
+2024-06-17,Middle East,Solstice,Enterprise,Partner,26,25916,2021,10750,3.93
+2024-06-18,Latin America,Phoenix Pro,Mid-Market,Partner,28,36371,2951,19676,4.06
+2024-06-19,Asia Pacific,Phoenix Pro,SMB,Direct,16,22832,1504,11950,3.79
+2024-06-20,Asia Pacific,Nova Edge,Enterprise,Reseller,19,71679,3856,36183,3.66
+2024-06-21,Europe,Phoenix Pro,Self-Serve,Direct,66,63695,3858,26663,3.92
+2024-06-22,Asia Pacific,Hyperion X,Self-Serve,Reseller,23,15392,977,7724,4.58
+2024-06-23,Asia Pacific,Atlas Lite,SMB,Partner,28,19363,1249,8961,3.74
+2024-06-24,Latin America,Hyperion X,Self-Serve,Partner,33,9931,677,4290,3.78
+2024-06-25,North America,Hyperion X,Self-Serve,Reseller,84,91328,10768,43898,3.93
+2024-06-26,Europe,Solstice,Mid-Market,Direct,72,112279,7093,49888,3.97
+2024-06-27,Latin America,Hyperion X,Mid-Market,Partner,33,40826,2730,20493,3.86
+2024-06-28,North America,Solstice,Self-Serve,Partner,21,12846,648,6936,3.95
+2024-06-01,North America,Solstice,SMB,Direct,90,115964,7850,59573,4.12
+2024-06-02,Asia Pacific,Atlas Lite,SMB,Reseller,73,48280,3166,22431,4.3
+2024-06-03,Europe,Nova Edge,Enterprise,Reseller,55,223002,11959,93714,3.73
+2024-06-04,Middle East,Hyperion X,SMB,Reseller,8,3897,423,1786,4.23
+2024-06-05,Middle East,Hyperion X,Self-Serve,Reseller,8,2282,176,1046,4.42
+2024-06-06,Europe,Phoenix Pro,Mid-Market,Reseller,16,55614,6358,30406,4.88
+2024-06-07,Middle East,Nova Edge,Enterprise,Reseller,18,27838,1497,13997,4.42
+2024-06-08,Asia Pacific,Solstice,SMB,Partner,41,39528,4973,21390,3.93
+2024-06-09,Middle East,Solstice,SMB,Online,19,5685,651,3099,4.54
+2024-06-10,Latin America,Solstice,Enterprise,Partner,16,21437,2214,9780,3.98
+2024-06-11,Asia Pacific,Atlas Lite,Enterprise,Reseller,39,89510,7216,46173,4.65
+2024-06-12,North America,Atlas Lite,Self-Serve,Partner,43,27084,2112,12888,3.9
+2024-06-13,Latin America,Hyperion X,Enterprise,Reseller,18,30532,2101,13664,3.9
+2024-06-14,Latin America,Hyperion X,Enterprise,Partner,6,12031,992,6285,4.62
+2024-06-15,North America,Solstice,Enterprise,Online,59,218085,18840,94739,3.55
+2024-06-16,Europe,Atlas Lite,Enterprise,Reseller,17,44947,3785,22559,4.93
+2024-06-17,Europe,Solstice,Enterprise,Reseller,38,112902,10131,46979,4.25
+2024-06-18,North America,Atlas Lite,Self-Serve,Reseller,112,61242,4008,32309,3.81
+2024-06-19,North America,Phoenix Pro,Self-Serve,Reseller,36,49865,3546,21942,4.44
+2024-06-20,Asia Pacific,Hyperion X,Enterprise,Reseller,39,178467,9692,80877,3.53
+2024-06-21,Middle East,Nova Edge,SMB,Direct,4,1648,93,830,4.75
+2024-06-22,Middle East,Hyperion X,Enterprise,Partner,7,12888,765,5371,4.55
+2024-06-23,Asia Pacific,Nova Edge,SMB,Reseller,56,58614,4306,28160,4.33
+2024-06-24,Latin America,Hyperion X,Mid-Market,Direct,11,10820,689,5895,4.81
+2024-06-25,Asia Pacific,Hyperion X,SMB,Online,12,15237,1197,7995,4.38
+2024-06-26,Asia Pacific,Solstice,Self-Serve,Direct,44,18338,1801,7839,4.09
+2024-06-27,Asia Pacific,Solstice,Self-Serve,Partner,9,3802,309,1539,4.52
+2024-06-28,Latin America,Atlas Lite,Self-Serve,Online,30,5133,510,2495,4.01
+2024-06-01,North America,Phoenix Pro,Enterprise,Online,51,392086,38949,207158,4.32
+2024-06-02,North America,Solstice,SMB,Reseller,97,122271,14754,52822,4.97
+2024-06-03,North America,Atlas Lite,Enterprise,Online,77,256433,29486,136387,4.24
+2024-06-04,Asia Pacific,Atlas Lite,SMB,Direct,33,22049,1201,9465,4.65
+2024-06-05,Asia Pacific,Solstice,SMB,Direct,45,43545,5305,19351,4.84
+2024-06-06,North America,Phoenix Pro,Mid-Market,Direct,59,245179,30636,98550,3.91
+2024-06-07,Latin America,Solstice,Enterprise,Reseller,18,22536,2794,11998,4.52
+2024-06-08,Asia Pacific,Atlas Lite,Mid-Market,Partner,60,90190,9508,46803,4.46
+2024-06-09,Asia Pacific,Phoenix Pro,Self-Serve,Direct,52,40424,5097,19005,3.86
+2024-06-10,North America,Atlas Lite,Enterprise,Partner,69,282010,18454,137096,4.3
+2024-06-11,Middle East,Solstice,Mid-Market,Online,6,3294,339,1360,3.67
+2024-06-12,Middle East,Nova Edge,SMB,Partner,3,1311,83,597,3.77
+2024-06-13,Asia Pacific,Solstice,Self-Serve,Partner,17,7791,869,3700,4.71
+2024-06-14,Middle East,Hyperion X,Self-Serve,Reseller,15,3436,246,1744,4.85
+2024-06-15,Europe,Atlas Lite,Mid-Market,Direct,35,53922,5723,22607,3.64
+2024-06-16,Latin America,Solstice,Enterprise,Reseller,22,30878,3722,14019,4.55
+2024-06-17,Latin America,Solstice,Mid-Market,Online,6,4668,368,1891,4.1
+2024-06-18,Latin America,Phoenix Pro,Enterprise,Partner,26,54727,3758,28001,4.33
+2024-06-19,Asia Pacific,Solstice,Self-Serve,Partner,70,28007,1668,12054,4.97
+2024-06-20,Europe,Hyperion X,Self-Serve,Online,75,51586,2899,26230,4.62
+2024-06-21,Latin America,Solstice,Mid-Market,Reseller,22,15389,1733,7725,3.91
+2024-06-22,Asia Pacific,Phoenix Pro,Self-Serve,Reseller,40,32487,1999,16179,4.49
+2024-06-23,Europe,Atlas Lite,Self-Serve,Online,61,27264,2903,14234,3.8
+2024-06-24,Europe,Nova Edge,Enterprise,Online,52,245512,15123,105289,4.11
+2024-06-25,Middle East,Hyperion X,Mid-Market,Reseller,18,18967,1221,10140,4.85
+2024-06-26,Middle East,Atlas Lite,Enterprise,Partner,4,3543,231,1742,4.76
+2024-06-27,Latin America,Solstice,SMB,Reseller,19,6780,690,3266,3.66
+2024-06-28,North America,Nova Edge,Enterprise,Partner,84,504229,52798,217815,4.08
+2024-06-01,North America,Phoenix Pro,SMB,Partner,58,143593,14302,60334,3.62
+2024-06-02,Middle East,Solstice,Enterprise,Online,20,23145,2969,11986,4.42
+2024-06-03,Asia Pacific,Solstice,Self-Serve,Online,45,18163,2115,9130,3.69
+2024-06-04,Latin America,Nova Edge,SMB,Partner,4,2288,244,1228,4.5
+2024-06-05,Middle East,Hyperion X,Enterprise,Online,25,43161,5592,17532,4.87
+2024-06-06,Middle East,Nova Edge,Mid-Market,Direct,12,10773,1118,5716,3.74
+2024-06-07,Asia Pacific,Atlas Lite,Self-Serve,Partner,37,12415,1369,6472,4.29
+2024-06-08,Latin America,Phoenix Pro,SMB,Reseller,5,3485,251,1538,4.62
+2024-06-09,North America,Solstice,Self-Serve,Partner,102,63693,4038,26533,4.33
+2024-06-10,Asia Pacific,Solstice,Enterprise,Reseller,43,120049,15420,55942,4.79
+2024-06-11,Asia Pacific,Nova Edge,SMB,Reseller,27,29297,1802,16096,3.92
+2024-06-12,Asia Pacific,Atlas Lite,Self-Serve,Online,26,9349,1167,4110,4.95
+2024-06-13,Europe,Atlas Lite,Mid-Market,Online,23,36207,2319,19514,3.65
+2024-06-14,Middle East,Hyperion X,SMB,Partner,28,16956,1233,7728,3.89
+2024-06-15,Asia Pacific,Phoenix Pro,Enterprise,Direct,39,175765,16064,95006,3.79
+2024-06-16,North America,Atlas Lite,Mid-Market,Online,103,208520,25952,111615,4.36
+2024-07-01,Middle East,Phoenix Pro,SMB,Online,5,3028,390,1562,3.75
+2024-07-02,Europe,Nova Edge,Enterprise,Online,71,308917,25927,132347,4.01
+2024-07-03,Middle East,Phoenix Pro,Mid-Market,Online,5,5521,379,2930,3.87
+2024-07-04,Europe,Nova Edge,Mid-Market,Direct,42,101261,13034,47882,4.83
+2024-07-05,Europe,Atlas Lite,Enterprise,Direct,19,61771,5429,31005,4.32
+2024-07-06,Middle East,Nova Edge,Mid-Market,Direct,14,13098,799,5516,4.51
+2024-07-07,Asia Pacific,Atlas Lite,Enterprise,Reseller,38,97670,11295,49855,4.84
+2024-07-08,Latin America,Nova Edge,Enterprise,Direct,31,57487,3349,24401,3.91
+2024-07-09,Latin America,Hyperion X,Self-Serve,Reseller,21,7294,659,3210,4.36
+2024-07-10,Middle East,Nova Edge,Enterprise,Online,30,47252,5064,23849,3.78
+2024-07-11,Latin America,Phoenix Pro,SMB,Direct,21,17552,915,8122,4.18
+2024-07-12,Europe,Phoenix Pro,Self-Serve,Direct,17,16366,1500,8595,3.52
+2024-07-13,Middle East,Phoenix Pro,Enterprise,Partner,24,54597,5704,28885,3.98
+2024-07-14,Europe,Phoenix Pro,Self-Serve,Reseller,47,49296,4453,23643,3.65
+2024-07-15,Middle East,Solstice,Enterprise,Direct,9,8988,793,4535,3.51
+2024-07-16,Latin America,Solstice,Self-Serve,Online,29,5305,552,2822,3.62
+2024-07-17,Asia Pacific,Solstice,Mid-Market,Online,53,87485,5371,47901,4.3
+2024-07-18,Europe,Nova Edge,Mid-Market,Direct,69,168395,11916,81017,3.66
+2024-07-19,Latin America,Solstice,SMB,Online,19,7749,995,3784,3.53
+2024-07-20,Latin America,Nova Edge,Enterprise,Partner,7,13589,1594,6478,4.44
+2024-07-21,North America,Phoenix Pro,Enterprise,Online,35,270337,16887,137342,4.37
+2024-07-22,Latin America,Hyperion X,Mid-Market,Online,6,6127,356,2971,4.49
+2024-07-23,Asia Pacific,Solstice,SMB,Direct,27,22061,2343,9484,3.58
+2024-07-24,North America,Atlas Lite,Self-Serve,Partner,70,51879,2947,26315,4.77
+2024-07-25,Latin America,Phoenix Pro,Self-Serve,Reseller,4,1306,110,702,3.61
+2024-07-26,Asia Pacific,Phoenix Pro,Enterprise,Direct,54,301462,26886,163456,3.84
+2024-07-27,Asia Pacific,Atlas Lite,Mid-Market,Partner,67,104746,10456,46873,4.28
+2024-07-28,Asia Pacific,Atlas Lite,Enterprise,Partner,37,98002,9039,52308,4.41
+2024-07-01,Middle East,Hyperion X,SMB,Direct,20,9808,1148,5061,3.66
+2024-07-02,Middle East,Atlas Lite,SMB,Reseller,17,4675,332,2071,4.54
+2024-07-03,Asia Pacific,Nova Edge,Mid-Market,Partner,66,160010,9787,77959,4.6
+2024-07-04,Latin America,Nova Edge,Enterprise,Partner,13,24731,2370,11477,4.97
+2024-07-05,North America,Hyperion X,Enterprise,Reseller,62,485036,53820,237248,3.94
+2024-07-06,Latin America,Phoenix Pro,Self-Serve,Online,16,5706,356,2714,4.31
+2024-07-07,Europe,Nova Edge,Enterprise,Direct,90,366584,22742,200155,4.75
+2024-07-08,Europe,Phoenix Pro,SMB,Reseller,37,78101,4379,36185,3.69
+2024-07-09,North America,Atlas Lite,SMB,Reseller,42,56675,6934,25997,3.83
+2024-07-10,Asia Pacific,Phoenix Pro,Self-Serve,Direct,67,52571,4154,21319,4.29
+2024-07-11,Latin America,Atlas Lite,Enterprise,Reseller,28,34534,1804,15108,4.6
+2024-07-12,Europe,Solstice,Mid-Market,Online,78,159144,8148,76333,4.74
+2024-07-13,Middle East,Hyperion X,SMB,Partner,3,1775,109,858,4.95
+2024-07-14,Asia Pacific,Atlas Lite,Enterprise,Reseller,15,41933,3739,18616,3.81
+2024-07-15,Europe,Solstice,Self-Serve,Reseller,16,7537,720,3426,3.52
+2024-07-16,Europe,Solstice,Self-Serve,Direct,22,12704,1013,5832,4.65
+2024-07-17,Asia Pacific,Hyperion X,Self-Serve,Partner,54,35082,2958,15457,4.41
+2024-07-18,Middle East,Phoenix Pro,Enterprise,Reseller,29,55490,3576,23011,3.94
+2024-07-19,Latin America,Hyperion X,Enterprise,Partner,11,19292,1275,8253,3.92
+2024-07-20,Europe,Nova Edge,Enterprise,Direct,82,394821,32872,207299,4.01
+2024-07-21,Asia Pacific,Atlas Lite,SMB,Partner,51,37907,3991,17873,4.03
+2024-07-22,Middle East,Atlas Lite,Self-Serve,Partner,24,4331,355,2321,4.19
+2024-07-23,Middle East,Hyperion X,Mid-Market,Reseller,21,21486,2768,9327,4.83
+2024-07-24,Asia Pacific,Solstice,Enterprise,Reseller,20,57711,5474,30284,4.35
+2024-07-25,Latin America,Nova Edge,Enterprise,Direct,30,56884,4462,27411,4.36
+2024-07-26,North America,Atlas Lite,Enterprise,Reseller,79,294830,29389,137712,4.37
+2024-07-27,North America,Hyperion X,SMB,Direct,44,108314,8457,47948,3.82
+2024-07-28,Europe,Atlas Lite,Enterprise,Direct,14,40254,3797,21509,4.76
+2024-07-01,Latin America,Solstice,Self-Serve,Partner,33,7240,652,3426,4.05
+2024-07-02,Latin America,Solstice,Self-Serve,Reseller,22,4932,373,2398,3.5
+2024-07-03,Middle East,Nova Edge,SMB,Reseller,13,6914,452,3593,4.71
+2024-07-04,Europe,Hyperion X,Enterprise,Direct,90,436199,51186,219744,4.7
+2024-07-05,Asia Pacific,Solstice,Self-Serve,Direct,57,25464,2906,10711,3.54
+2024-07-06,Europe,Phoenix Pro,Enterprise,Reseller,84,508027,27802,213053,4.68
+2024-07-07,Middle East,Nova Edge,SMB,Direct,11,5908,693,2798,4.18
+2024-07-08,Middle East,Phoenix Pro,Self-Serve,Reseller,9,3011,160,1546,3.77
+2024-07-09,North America,Phoenix Pro,SMB,Direct,70,167637,15445,71252,4.31
+2024-07-10,Latin America,Atlas Lite,Enterprise,Online,22,29427,3220,15884,4.11
+2024-07-11,Middle East,Solstice,Mid-Market,Direct,5,3427,360,1455,4.18
+2024-07-12,Europe,Nova Edge,Mid-Market,Direct,86,234787,21934,107371,3.67
+2024-07-13,Latin America,Phoenix Pro,SMB,Direct,24,18111,1734,7708,4.25
+2024-07-14,Europe,Nova Edge,Enterprise,Reseller,62,286841,14368,137015,4.48
+2024-07-15,Asia Pacific,Atlas Lite,Self-Serve,Partner,26,9179,480,4754,4.49
+2024-07-16,Asia Pacific,Atlas Lite,Mid-Market,Direct,54,71423,4214,34759,4.83
+2024-07-17,Middle East,Atlas Lite,Self-Serve,Reseller,13,1943,189,1024,4.94
+2024-07-18,Europe,Hyperion X,Enterprise,Online,59,347556,33374,182581,4.9
+2024-07-19,Asia Pacific,Nova Edge,Self-Serve,Direct,73,40225,3285,21504,3.71
+2024-07-20,Latin America,Phoenix Pro,Mid-Market,Direct,16,19756,1122,9532,4.37
+2024-07-21,North America,Hyperion X,SMB,Partner,102,251495,24207,110869,4.01
+2024-07-22,North America,Solstice,Self-Serve,Partner,112,76211,6212,32295,4.96
+2024-07-23,Latin America,Phoenix Pro,Mid-Market,Reseller,25,31396,3289,13856,4.5
+2024-07-24,North America,Hyperion X,Enterprise,Direct,47,369801,27374,172126,3.55
+2024-07-25,North America,Atlas Lite,Mid-Market,Online,99,219334,14945,114483,4.28
+2024-07-26,Latin America,Atlas Lite,Mid-Market,Partner,14,7913,931,3544,3.98
+2024-07-27,Asia Pacific,Hyperion X,Mid-Market,Reseller,62,138379,11442,59240,3.8
+2024-07-28,Asia Pacific,Solstice,Enterprise,Direct,67,182535,19449,90682,4.13
+2024-07-01,North America,Atlas Lite,SMB,Reseller,110,148569,10125,72091,4.99
+2024-07-02,North America,Phoenix Pro,SMB,Direct,19,45923,4545,22601,4.2
+2024-07-03,Latin America,Hyperion X,Mid-Market,Partner,30,32861,3778,13396,3.85
+2024-07-04,Latin America,Solstice,Enterprise,Reseller,24,31311,2488,13337,3.66
+2024-07-05,North America,Phoenix Pro,SMB,Direct,96,235796,24371,95633,3.58
+2024-07-06,North America,Hyperion X,SMB,Online,94,230866,14461,110046,4.63
+2024-07-07,Europe,Phoenix Pro,Self-Serve,Direct,28,27345,1434,12398,4.06
+2024-07-08,North America,Atlas Lite,Enterprise,Online,89,391780,36576,158887,4.77
+2024-07-09,Europe,Hyperion X,SMB,Partner,27,42092,4820,20388,4.13
+2024-07-10,Asia Pacific,Solstice,Self-Serve,Partner,44,21923,2342,10869,3.77
+2024-07-11,Asia Pacific,Atlas Lite,Mid-Market,Online,26,34674,3931,17748,4.37
+2024-07-12,North America,Hyperion X,Mid-Market,Partner,109,440674,24515,220468,4.22
+2024-07-13,Middle East,Atlas Lite,Self-Serve,Direct,19,3027,315,1407,4.27
+2024-07-14,Asia Pacific,Hyperion X,Enterprise,Reseller,26,113687,9257,46715,4.12
+2024-07-15,North America,Phoenix Pro,SMB,Online,110,297050,25188,162533,4.73
+2024-07-16,Europe,Solstice,SMB,Reseller,46,46834,2468,20160,4.01
+2024-08-01,Europe,Atlas Lite,Self-Serve,Direct,74,41106,4204,18141,4.26
+2024-08-02,Middle East,Phoenix Pro,Self-Serve,Online,6,1918,207,1023,4.88
+2024-08-03,North America,Solstice,Mid-Market,Partner,88,219013,19305,98960,3.59
+2024-08-04,North America,Phoenix Pro,SMB,Reseller,78,221928,21669,119875,4.64
+2024-08-05,Europe,Hyperion X,Self-Serve,Reseller,12,10112,815,5462,4.49
+2024-08-06,North America,Atlas Lite,SMB,Online,91,114017,12819,53984,3.88
+2024-08-07,Europe,Phoenix Pro,Self-Serve,Direct,58,56310,5934,27963,3.81
+2024-08-08,Middle East,Solstice,Self-Serve,Direct,14,2231,170,1214,4.17
+2024-08-09,Europe,Nova Edge,Enterprise,Partner,10,51689,4446,25009,4.8
+2024-08-10,Asia Pacific,Phoenix Pro,Enterprise,Direct,34,157386,9810,78193,4
+2024-08-11,Europe,Hyperion X,SMB,Direct,16,26931,2231,13748,4.54
+2024-08-12,Asia Pacific,Atlas Lite,Enterprise,Online,46,122804,14673,52788,4.55
+2024-08-13,Asia Pacific,Solstice,Self-Serve,Reseller,46,21872,1095,10193,4.1
+2024-08-14,Europe,Hyperion X,Enterprise,Direct,90,542524,66081,293783,4.23
+2024-08-15,Asia Pacific,Phoenix Pro,Enterprise,Direct,9,39093,5073,19424,3.58
+2024-08-16,Europe,Atlas Lite,Self-Serve,Partner,90,40193,2274,18609,3.79
+2024-08-17,Middle East,Atlas Lite,Mid-Market,Reseller,18,10790,562,5372,3.5
+2024-08-18,North America,Phoenix Pro,Mid-Market,Partner,97,460953,38925,235031,4.95
+2024-08-19,Europe,Atlas Lite,Mid-Market,Reseller,13,21940,1699,9882,4.55
+2024-08-20,Middle East,Solstice,Mid-Market,Reseller,29,18641,1323,8883,4.33
+2024-08-21,North America,Hyperion X,SMB,Online,40,92967,9259,47750,3.99
+2024-08-22,Latin America,Solstice,SMB,Direct,7,3072,311,1660,4.99
+2024-08-23,Middle East,Nova Edge,SMB,Online,30,13783,1088,6755,4.19
+2024-08-24,North America,Hyperion X,Self-Serve,Partner,56,64150,3432,30208,4.69
+2024-08-25,Asia Pacific,Nova Edge,SMB,Direct,27,32035,2776,14603,4.61
+2024-08-26,North America,Solstice,Self-Serve,Partner,93,58893,6725,25140,4.86
+2024-08-27,Europe,Hyperion X,Mid-Market,Direct,48,152043,13761,73609,4.83
+2024-08-28,North America,Atlas Lite,SMB,Online,19,21045,1086,10638,4.6
+2024-08-01,Latin America,Atlas Lite,Self-Serve,Direct,26,5195,424,2113,3.69
+2024-08-02,Latin America,Nova Edge,Self-Serve,Reseller,17,4561,428,1866,3.73
+2024-08-03,Europe,Solstice,Self-Serve,Direct,89,45582,5908,19278,4.57
+2024-08-04,Europe,Atlas Lite,Enterprise,Reseller,51,173104,14388,69637,4.92
+2024-08-05,Middle East,Atlas Lite,Mid-Market,Reseller,12,5794,727,2909,4.08
+2024-08-06,North America,Hyperion X,Mid-Market,Online,105,378036,35971,178070,4.97
+2024-08-07,Asia Pacific,Phoenix Pro,Enterprise,Direct,53,240455,22237,109964,3.94
+2024-08-08,Middle East,Atlas Lite,Self-Serve,Direct,14,2175,114,883,4.06
+2024-08-09,North America,Solstice,SMB,Partner,28,36518,2163,18924,4.29
+2024-08-10,Europe,Solstice,Enterprise,Direct,66,254707,14444,108058,4.59
+2024-08-11,Asia Pacific,Atlas Lite,Enterprise,Reseller,14,37265,4059,18117,3.65
+2024-08-12,Middle East,Nova Edge,Self-Serve,Partner,3,683,57,325,4.55
+2024-08-13,Middle East,Solstice,Mid-Market,Direct,8,4591,309,2418,4.61
+2024-08-14,Latin America,Phoenix Pro,Self-Serve,Partner,28,11568,1384,5645,3.99
+2024-08-15,North America,Solstice,SMB,Direct,30,45919,5019,24980,4.98
+2024-08-16,Latin America,Atlas Lite,Self-Serve,Reseller,24,4627,366,2419,4.97
+2024-08-17,Asia Pacific,Hyperion X,Mid-Market,Reseller,29,77352,10048,32276,4.57
+2024-08-18,Middle East,Atlas Lite,SMB,Reseller,15,5295,358,2307,3.51
+2024-08-19,Europe,Phoenix Pro,SMB,Partner,73,141221,8129,73118,4.66
+2024-08-20,Middle East,Nova Edge,SMB,Partner,13,6023,584,2919,3.94
+2024-08-21,Middle East,Phoenix Pro,SMB,Reseller,4,2704,144,1437,4.02
+2024-08-22,North America,Hyperion X,Self-Serve,Online,25,32416,3042,13335,4.85
+2024-08-23,North America,Phoenix Pro,Self-Serve,Direct,89,108826,10152,59614,4.25
+2024-08-24,Europe,Hyperion X,SMB,Online,44,68616,8744,31204,3.69
+2024-08-25,North America,Nova Edge,Enterprise,Online,107,599020,55071,298511,4.33
+2024-08-26,Latin America,Phoenix Pro,Enterprise,Partner,4,8117,936,3853,4.88
+2024-08-27,Latin America,Solstice,Mid-Market,Direct,35,26608,3278,11379,4.79
+2024-08-28,Europe,Phoenix Pro,SMB,Direct,9,15228,1293,6552,4.6
+2024-08-01,Middle East,Phoenix Pro,Self-Serve,Online,21,5807,317,2987,4.41
+2024-08-02,Middle East,Solstice,Self-Serve,Online,25,4197,371,1811,4.99
+2024-08-03,North America,Phoenix Pro,Enterprise,Online,76,670981,54537,353126,3.97
+2024-08-04,Europe,Atlas Lite,Mid-Market,Direct,86,131731,8158,65170,4.83
+2024-08-05,Asia Pacific,Solstice,Self-Serve,Partner,24,12266,1159,6263,4.23
+2024-08-06,Middle East,Solstice,Self-Serve,Direct,5,858,96,437,3.51
+2024-08-07,Middle East,Hyperion X,Enterprise,Direct,12,19132,2070,9338,4.93
+2024-08-08,Europe,Hyperion X,Mid-Market,Direct,82,251055,15525,100849,3.81
+2024-08-09,North America,Phoenix Pro,Enterprise,Reseller,37,340150,37554,144146,3.75
+2024-08-10,Middle East,Phoenix Pro,Self-Serve,Direct,20,6366,453,2629,4.68
+2024-08-11,North America,Hyperion X,Mid-Market,Online,117,509944,56998,243264,3.85
+2024-08-12,North America,Phoenix Pro,Enterprise,Online,18,146338,7792,65972,4.56
+2024-08-13,Latin America,Solstice,Mid-Market,Reseller,9,6033,650,2692,3.98
+2024-08-14,Latin America,Hyperion X,Self-Serve,Reseller,25,8506,915,3822,4.32
+2024-08-15,North America,Nova Edge,Enterprise,Reseller,31,198107,18603,98632,4.04
+2024-08-16,Middle East,Atlas Lite,Self-Serve,Direct,3,417,53,187,4.57
+2024-08-17,Asia Pacific,Phoenix Pro,SMB,Reseller,29,41351,4490,21726,4.51
+2024-08-18,Europe,Atlas Lite,Mid-Market,Reseller,18,28535,3611,15643,3.52
+2024-08-19,Latin America,Phoenix Pro,SMB,Reseller,17,12320,1385,5527,4.85
+2024-08-20,North America,Phoenix Pro,Mid-Market,Reseller,68,343970,21714,175006,3.62
+2024-08-21,Middle East,Solstice,SMB,Online,3,1249,101,615,4.65
+2024-08-22,Middle East,Nova Edge,SMB,Partner,3,1363,171,581,4.6
+2024-08-23,Latin America,Hyperion X,Enterprise,Reseller,4,8725,727,3754,4.81
+2024-08-24,Asia Pacific,Hyperion X,Self-Serve,Direct,18,12276,1506,6024,4.75
+2024-08-25,Europe,Atlas Lite,SMB,Direct,36,33143,1881,17280,4.67
+2024-08-26,Latin America,Hyperion X,Self-Serve,Direct,10,3282,315,1431,4.62
+2024-08-27,Latin America,Nova Edge,SMB,Direct,29,18469,2214,8211,3.66
+2024-08-28,Middle East,Hyperion X,Enterprise,Partner,10,19216,2371,7746,4.63
+2024-08-01,Europe,Solstice,Mid-Market,Reseller,29,53949,5712,27585,4.96
+2024-08-02,Latin America,Hyperion X,Enterprise,Partner,5,10475,619,4412,4.3
+2024-08-03,Europe,Solstice,SMB,Reseller,75,86417,6397,37530,4.51
+2024-08-04,North America,Solstice,Self-Serve,Partner,13,9174,869,4342,4.69
+2024-08-05,Latin America,Phoenix Pro,SMB,Online,24,15987,2066,7358,3.7
+2024-08-06,Latin America,Solstice,Self-Serve,Online,9,2126,253,892,3.96
+2024-08-07,Asia Pacific,Phoenix Pro,SMB,Partner,39,55856,5812,23599,3.52
+2024-08-08,Latin America,Solstice,Self-Serve,Direct,8,1552,111,625,4.02
+2024-08-09,North America,Phoenix Pro,Self-Serve,Direct,41,57560,6850,29875,3.98
+2024-08-10,Middle East,Hyperion X,Mid-Market,Reseller,21,18969,2451,9569,3.71
+2024-08-11,North America,Nova Edge,Self-Serve,Online,13,13679,1715,5996,4.98
+2024-08-12,North America,Atlas Lite,SMB,Reseller,43,47726,4458,22327,3.64
+2024-08-13,North America,Solstice,SMB,Reseller,58,92385,7839,48600,3.77
+2024-08-14,North America,Phoenix Pro,Self-Serve,Direct,41,47781,3406,21963,3.69
+2024-08-15,Middle East,Atlas Lite,Enterprise,Direct,12,11334,870,4941,4.23
+2024-08-16,Middle East,Atlas Lite,Mid-Market,Direct,13,7324,658,3326,4.57
+2024-09-01,Latin America,Solstice,Self-Serve,Direct,10,1882,110,881,4.91
+2024-09-02,Asia Pacific,Hyperion X,Self-Serve,Partner,19,11701,787,4836,4.16
+2024-09-03,North America,Atlas Lite,Enterprise,Online,43,180242,21764,83310,4.87
+2024-09-04,North America,Solstice,Self-Serve,Direct,111,71849,4807,38581,4.36
+2024-09-05,Asia Pacific,Nova Edge,Enterprise,Direct,66,271206,27709,128587,4.06
+2024-09-06,Europe,Solstice,Enterprise,Reseller,89,343759,42930,149227,3.99
+2024-09-07,North America,Solstice,Self-Serve,Partner,68,55855,5296,29922,4.99
+2024-09-08,Middle East,Atlas Lite,SMB,Online,28,8908,919,4028,3.53
+2024-09-09,Latin America,Solstice,Enterprise,Reseller,15,20522,2122,8363,3.96
+2024-09-10,Europe,Hyperion X,Mid-Market,Reseller,78,201914,18670,100204,4.53
+2024-09-11,Latin America,Solstice,SMB,Partner,17,6925,418,3648,4.45
+2024-09-12,Latin America,Phoenix Pro,Self-Serve,Direct,15,5430,437,2934,4.66
+2024-09-13,Middle East,Hyperion X,Enterprise,Online,3,4619,582,2421,3.67
+2024-09-14,North America,Nova Edge,Enterprise,Direct,109,646774,39493,305690,4.51
+2024-09-15,Europe,Phoenix Pro,Enterprise,Partner,50,344312,20843,178352,4.47
+2024-09-16,Europe,Hyperion X,SMB,Partner,33,52522,6070,23394,3.54
+2024-09-17,Europe,Atlas Lite,Mid-Market,Reseller,66,121487,13942,51568,3.91
+2024-09-18,Middle East,Hyperion X,Enterprise,Reseller,16,26028,2370,12969,4.42
+2024-09-19,Middle East,Hyperion X,SMB,Direct,19,9795,1098,4835,3.76
+2024-09-20,Europe,Phoenix Pro,Self-Serve,Online,86,94865,6562,46325,3.96
+2024-09-21,Asia Pacific,Phoenix Pro,Self-Serve,Direct,17,14372,1158,7694,4.82
+2024-09-22,Middle East,Solstice,Enterprise,Online,10,10827,1281,5232,4.39
+2024-09-23,Middle East,Nova Edge,Self-Serve,Direct,6,1290,69,548,3.82
+2024-09-24,Middle East,Nova Edge,SMB,Online,18,9666,1099,4099,3.88
+2024-09-25,Middle East,Hyperion X,SMB,Direct,18,10752,834,4359,4.34
+2024-09-26,Europe,Atlas Lite,Mid-Market,Reseller,66,105234,6942,50159,4.51
+2024-09-27,Middle East,Nova Edge,Self-Serve,Reseller,26,6168,715,3223,4.97
+2024-09-28,Asia Pacific,Solstice,Enterprise,Online,67,189898,23048,94496,4.09
+2024-09-01,Asia Pacific,Solstice,SMB,Partner,20,20589,2235,9565,4.31
+2024-09-02,Asia Pacific,Nova Edge,Mid-Market,Partner,47,97123,6779,52151,3.74
+2024-09-03,Latin America,Atlas Lite,Self-Serve,Partner,30,5627,314,2612,3.86
+2024-09-04,North America,Solstice,Enterprise,Online,46,194263,17770,92016,3.72
+2024-09-05,Latin America,Solstice,Mid-Market,Reseller,22,14585,1773,7116,4.77
+2024-09-06,Asia Pacific,Solstice,Mid-Market,Partner,28,45050,5561,18864,3.6
+2024-09-07,Middle East,Solstice,Mid-Market,Direct,27,17908,1746,9717,4.02
+2024-09-08,Europe,Solstice,Mid-Market,Direct,35,67261,8694,29115,4.1
+2024-09-09,North America,Nova Edge,Enterprise,Online,37,219291,13022,106612,4.66
+2024-09-10,Europe,Solstice,Enterprise,Partner,83,293825,24580,148436,4.4
+2024-09-11,Asia Pacific,Phoenix Pro,Enterprise,Direct,28,128483,16306,58577,4.49
+2024-09-12,Asia Pacific,Phoenix Pro,Self-Serve,Direct,39,32491,2064,16403,4.11
+2024-09-13,Europe,Hyperion X,Enterprise,Reseller,28,146942,9071,70437,4.48
+2024-09-14,Middle East,Hyperion X,Enterprise,Partner,19,31521,3471,15821,3.69
+2024-09-15,Asia Pacific,Nova Edge,Mid-Market,Reseller,55,129217,8534,66975,3.68
+2024-09-16,Asia Pacific,Atlas Lite,SMB,Partner,51,37997,3536,19484,4.61
+2024-09-17,Europe,Nova Edge,SMB,Online,55,69960,8169,33731,4.65
+2024-09-18,North America,Nova Edge,Enterprise,Direct,72,403810,49933,219313,3.85
+2024-09-19,North America,Hyperion X,Enterprise,Direct,32,210209,26446,89776,4
+2024-09-20,Europe,Phoenix Pro,Mid-Market,Online,80,253137,15463,130471,4.49
+2024-09-21,Europe,Solstice,SMB,Reseller,54,65489,3899,31575,4.94
+2024-09-22,Middle East,Atlas Lite,Self-Serve,Reseller,5,921,79,411,3.74
+2024-09-23,Latin America,Solstice,Self-Serve,Partner,17,3672,231,1537,4.73
+2024-09-24,Europe,Nova Edge,Enterprise,Reseller,67,314604,39443,147644,4.82
+2024-09-25,Europe,Solstice,SMB,Direct,53,65341,6115,26295,3.83
+2024-09-26,Latin America,Solstice,Self-Serve,Direct,16,3859,415,1907,4.52
+2024-09-27,Middle East,Nova Edge,Self-Serve,Online,11,2314,243,947,3.74
+2024-09-28,North America,Atlas Lite,Mid-Market,Reseller,56,130657,9313,61379,4.27
+2024-09-01,Latin America,Phoenix Pro,Self-Serve,Online,20,7006,908,3505,4.24
+2024-09-02,Europe,Nova Edge,SMB,Reseller,31,45851,5599,19244,4.75
+2024-09-03,North America,Solstice,Enterprise,Online,21,95953,8922,51921,4.93
+2024-09-04,Asia Pacific,Atlas Lite,Self-Serve,Partner,68,27766,2256,13990,4.03
+2024-09-05,North America,Nova Edge,Mid-Market,Partner,114,414928,32273,199443,4.83
+2024-09-06,North America,Phoenix Pro,SMB,Partner,16,40290,4385,18286,4.24
+2024-09-07,Middle East,Hyperion X,Self-Serve,Reseller,22,7003,665,3199,4.53
+2024-09-08,Middle East,Hyperion X,SMB,Direct,16,9611,1051,4699,4.47
+2024-09-09,Middle East,Solstice,SMB,Online,14,4666,316,1984,4.36
+2024-09-10,North America,Solstice,SMB,Partner,119,190413,21502,81075,4.86
+2024-09-11,Middle East,Solstice,Mid-Market,Online,21,14858,1250,6259,4.05
+2024-09-12,Asia Pacific,Atlas Lite,Enterprise,Online,56,150238,7791,76515,4.25
+2024-09-13,Middle East,Phoenix Pro,Self-Serve,Reseller,11,3536,350,1852,4.86
+2024-09-14,North America,Solstice,Self-Serve,Direct,30,21496,1707,9501,4.75
+2024-09-15,Latin America,Nova Edge,Mid-Market,Direct,29,29541,3445,13770,4.8
+2024-09-16,Latin America,Atlas Lite,Self-Serve,Partner,21,4498,453,1966,3.61
+2024-09-17,Middle East,Solstice,Enterprise,Direct,14,15800,1225,6797,4.02
+2024-09-18,Europe,Hyperion X,Enterprise,Partner,16,77249,5045,41087,4.5
+2024-09-19,Europe,Phoenix Pro,Enterprise,Direct,85,460995,50050,253218,4.58
+2024-09-20,Europe,Nova Edge,SMB,Reseller,11,14259,895,6772,4.49
+2024-09-21,Asia Pacific,Atlas Lite,Enterprise,Partner,40,102578,9143,50534,4.15
+2024-09-22,North America,Phoenix Pro,Enterprise,Reseller,94,664728,38545,355152,3.62
+2024-09-23,Latin America,Nova Edge,Enterprise,Reseller,20,33901,1734,18541,4.24
+2024-09-24,North America,Hyperion X,Enterprise,Reseller,85,636358,45487,296095,4.92
+2024-09-25,Latin America,Atlas Lite,SMB,Online,10,3555,365,1491,3.96
+2024-09-26,Asia Pacific,Solstice,Self-Serve,Direct,18,9114,506,3871,4.64
+2024-09-27,Latin America,Nova Edge,SMB,Reseller,16,8005,791,4114,4.71
+2024-09-28,Latin America,Solstice,Mid-Market,Direct,13,10782,1159,5896,3.85
+2024-09-01,North America,Phoenix Pro,Enterprise,Online,66,569358,66726,248326,3.54
+2024-09-02,Asia Pacific,Solstice,Self-Serve,Online,44,18598,1320,9859,4.39
+2024-09-03,Europe,Solstice,Self-Serve,Online,86,40245,4628,20243,3.69
+2024-09-04,Latin America,Solstice,Enterprise,Partner,12,17242,898,8373,3.65
+2024-09-05,Latin America,Solstice,Enterprise,Direct,13,17959,1599,7440,3.58
+2024-09-06,Middle East,Nova Edge,Self-Serve,Online,10,2415,295,1052,4.28
+2024-09-07,Middle East,Solstice,Mid-Market,Online,9,5125,654,2520,4.57
+2024-09-08,North America,Hyperion X,Self-Serve,Partner,46,54130,3953,22162,4.32
+2024-09-09,Asia Pacific,Solstice,Mid-Market,Direct,13,19941,2094,8404,4.68
+2024-09-10,North America,Phoenix Pro,SMB,Online,53,145612,11449,66656,3.7
+2024-09-11,Latin America,Nova Edge,SMB,Reseller,22,12654,1061,5826,4.62
+2024-09-12,Europe,Nova Edge,Self-Serve,Online,36,22556,2889,11336,4.83
+2024-09-13,Middle East,Solstice,Mid-Market,Direct,4,2193,144,1002,4.91
+2024-09-14,Europe,Solstice,SMB,Reseller,44,50908,5451,23415,4.97
+2024-09-15,Asia Pacific,Nova Edge,Mid-Market,Direct,45,97049,10691,45874,4.2
+2024-09-16,Middle East,Nova Edge,Enterprise,Online,24,36600,2992,19886,4.14
+2024-10-01,Asia Pacific,Phoenix Pro,SMB,Reseller,71,137158,13737,74800,4.75
+2024-10-02,Middle East,Nova Edge,Mid-Market,Direct,8,7459,879,4087,4.75
+2024-10-03,Asia Pacific,Phoenix Pro,Enterprise,Partner,73,508118,48540,262411,3.84
+2024-10-04,Middle East,Solstice,Mid-Market,Reseller,21,14396,1239,6532,3.61
+2024-10-05,Middle East,Nova Edge,Self-Serve,Partner,9,2838,361,1172,4.68
+2024-10-06,Asia Pacific,Hyperion X,SMB,Reseller,75,142739,15739,69572,4.22
+2024-10-07,North America,Solstice,Enterprise,Partner,75,476503,27355,208945,4.9
+2024-10-08,Latin America,Phoenix Pro,Enterprise,Reseller,30,79250,5778,36612,4.32
+2024-10-09,Europe,Hyperion X,SMB,Online,83,194511,21353,98005,4.14
+2024-10-10,Europe,Nova Edge,Self-Serve,Partner,20,19438,2364,10191,4.1
+2024-10-11,Latin America,Phoenix Pro,Mid-Market,Online,21,29794,3639,16198,4.95
+2024-10-12,Asia Pacific,Phoenix Pro,Self-Serve,Online,24,26595,1825,13838,4.15
+2024-10-13,Europe,Hyperion X,Mid-Market,Partner,22,86022,8520,40528,4.66
+2024-10-14,North America,Atlas Lite,Mid-Market,Reseller,95,226028,24488,123760,3.59
+2024-10-15,Middle East,Atlas Lite,Mid-Market,Direct,22,13154,793,5859,4.11
+2024-10-16,Latin America,Nova Edge,Enterprise,Direct,30,56835,5158,25299,3.56
+2024-10-17,Middle East,Phoenix Pro,Self-Serve,Reseller,17,7492,933,3097,4.06
+2024-10-18,Europe,Hyperion X,SMB,Partner,48,100818,12618,44824,4.1
+2024-10-19,Latin America,Nova Edge,SMB,Online,5,3227,189,1324,4.99
+2024-10-20,Latin America,Nova Edge,Self-Serve,Partner,4,1543,133,652,3.89
+2024-10-21,North America,Nova Edge,Mid-Market,Direct,41,197160,14471,83085,3.55
+2024-10-22,Middle East,Nova Edge,Mid-Market,Partner,11,11556,1107,5304,4.29
+2024-10-23,Latin America,Nova Edge,Enterprise,Partner,11,24605,2429,12750,4.38
+2024-10-24,Latin America,Solstice,SMB,Direct,23,10638,997,4533,4.56
+2024-10-25,Latin America,Phoenix Pro,Mid-Market,Partner,11,18158,1701,8731,4.23
+2024-10-26,North America,Nova Edge,Mid-Market,Reseller,18,86740,6515,46659,3.65
+2024-10-27,Latin America,Nova Edge,Mid-Market,Reseller,13,14597,1458,6376,4.34
+2024-10-28,Middle East,Phoenix Pro,SMB,Direct,26,18485,2153,10070,4.25
+2024-10-01,Europe,Solstice,Mid-Market,Partner,16,43370,2388,18684,4.37
+2024-10-02,Middle East,Hyperion X,Mid-Market,Partner,14,15969,1824,6657,3.68
+2024-10-03,North America,Atlas Lite,Mid-Market,Online,13,36569,3965,14993,3.54
+2024-10-04,Latin America,Atlas Lite,Mid-Market,Reseller,8,7074,427,2941,4.11
+2024-10-05,Europe,Phoenix Pro,Self-Serve,Online,63,84376,4468,38008,3.74
+2024-10-06,Middle East,Phoenix Pro,Mid-Market,Direct,15,18696,1475,9148,4.3
+2024-10-07,North America,Atlas Lite,SMB,Partner,27,47152,3396,23782,3.95
+2024-10-08,Europe,Nova Edge,SMB,Online,67,105137,10652,42999,4.82
+2024-10-09,Europe,Solstice,SMB,Partner,18,25612,2700,13344,4.58
+2024-10-10,Middle East,Solstice,Mid-Market,Partner,3,2320,203,1162,4.54
+2024-10-11,Asia Pacific,Phoenix Pro,Mid-Market,Online,62,235340,25023,125195,3.78
+2024-10-12,Middle East,Atlas Lite,SMB,Reseller,20,9041,945,4907,3.74
+2024-10-13,Europe,Solstice,Mid-Market,Online,76,168162,21482,86966,3.8
+2024-10-14,Middle East,Nova Edge,Self-Serve,Direct,17,4653,305,1876,4.44
+2024-10-15,Latin America,Solstice,Enterprise,Reseller,15,21715,1831,10312,4.4
+2024-10-16,Asia Pacific,Solstice,SMB,Online,18,20549,1430,10069,3.73
+2024-10-17,Middle East,Nova Edge,Self-Serve,Reseller,10,3216,286,1540,4.39
+2024-10-18,Latin America,Hyperion X,Enterprise,Direct,5,14012,754,6093,4.2
+2024-10-19,North America,Phoenix Pro,Mid-Market,Partner,52,329191,22514,149001,3.93
+2024-10-20,Asia Pacific,Hyperion X,Enterprise,Online,65,344509,37914,189309,4.88
+2024-10-21,Latin America,Nova Edge,SMB,Partner,12,9219,915,4764,3.62
+2024-10-22,Middle East,Hyperion X,Self-Serve,Partner,13,4892,374,2509,4.75
+2024-10-23,Asia Pacific,Phoenix Pro,SMB,Direct,65,128827,6630,66138,3.59
+2024-10-24,Middle East,Solstice,Mid-Market,Direct,17,15096,1556,6415,4.95
+2024-10-25,Latin America,Nova Edge,Self-Serve,Partner,16,5666,668,2610,4.69
+2024-10-26,North America,Solstice,SMB,Reseller,62,106000,10295,56975,4.89
+2024-10-27,North America,Phoenix Pro,Mid-Market,Partner,102,605265,40397,288199,4.61
+2024-10-28,North America,Hyperion X,SMB,Online,68,200143,19032,101863,4.82
+2024-10-01,Asia Pacific,Nova Edge,Enterprise,Partner,22,113583,10837,52224,4.1
+2024-10-02,Middle East,Atlas Lite,Enterprise,Reseller,22,30822,3106,14152,4.22
+2024-10-03,Asia Pacific,Hyperion X,Enterprise,Partner,45,223408,27168,111717,3.53
+2024-10-04,Asia Pacific,Nova Edge,Self-Serve,Reseller,62,39499,5101,17837,4.69
+2024-10-05,Latin America,Hyperion X,Mid-Market,Partner,28,34796,4246,16613,4.86
+2024-10-06,Middle East,Atlas Lite,SMB,Reseller,3,1076,119,541,4.39
+2024-10-07,Europe,Atlas Lite,SMB,Reseller,11,11932,1012,4875,4.67
+2024-10-08,Latin America,Solstice,SMB,Partner,12,6110,403,2991,4.4
+2024-10-09,Latin America,Nova Edge,Mid-Market,Online,8,11096,861,4993,4.45
+2024-10-10,Europe,Solstice,Self-Serve,Direct,62,41270,3041,17410,4.68
+2024-10-11,North America,Atlas Lite,Mid-Market,Reseller,71,182934,12173,82493,3.71
+2024-10-12,Latin America,Solstice,SMB,Partner,10,4490,515,2000,4.08
+2024-10-13,Middle East,Hyperion X,SMB,Reseller,12,9387,736,4937,3.69
+2024-10-14,Middle East,Atlas Lite,Self-Serve,Reseller,11,2424,126,1206,4.63
+2024-10-15,North America,Solstice,Self-Serve,Partner,58,56925,5442,24756,4.52
+2024-10-16,North America,Solstice,Mid-Market,Online,90,255154,15068,140019,4.88
+2024-10-17,Europe,Atlas Lite,SMB,Partner,74,84481,7412,45054,3.55
+2024-10-18,Asia Pacific,Hyperion X,Enterprise,Online,11,65105,4176,31771,4.97
+2024-10-19,Europe,Solstice,Self-Serve,Reseller,43,32264,3249,17237,4.67
+2024-10-20,North America,Nova Edge,Self-Serve,Online,49,54546,2873,26999,4.79
+2024-10-21,Europe,Nova Edge,Self-Serve,Partner,51,49950,3549,23652,3.6
+2024-10-22,Middle East,Nova Edge,Mid-Market,Online,11,10146,1040,4839,3.84
+2024-10-23,Europe,Solstice,Self-Serve,Reseller,79,54358,3376,27691,4.27
+2024-10-24,North America,Phoenix Pro,Self-Serve,Partner,98,146596,13304,68238,4.23
+2024-10-25,Latin America,Atlas Lite,Mid-Market,Partner,25,21628,1260,11334,3.99
+2024-10-26,Latin America,Nova Edge,Enterprise,Reseller,22,51470,4008,26263,3.72
+2024-10-27,Latin America,Atlas Lite,SMB,Direct,20,9296,1207,3950,3.76
+2024-10-28,North America,Nova Edge,Enterprise,Partner,40,255141,16354,124957,3.7
+2024-10-01,Europe,Solstice,SMB,Online,75,104612,8070,56981,3.6
+2024-10-02,Asia Pacific,Nova Edge,Mid-Market,Online,43,115898,13582,49819,4.28
+2024-10-03,North America,Solstice,Enterprise,Direct,47,249931,14923,121584,4.72
+2024-10-04,Middle East,Hyperion X,Self-Serve,Partner,10,2980,330,1219,4.21
+2024-10-05,Asia Pacific,Nova Edge,Mid-Market,Direct,48,139856,13774,62355,4.83
+2024-10-06,North America,Nova Edge,Mid-Market,Reseller,36,168249,15895,72156,3.77
+2024-10-07,Latin America,Atlas Lite,Self-Serve,Direct,23,5916,632,3153,4.99
+2024-10-08,Asia Pacific,Solstice,Self-Serve,Online,39,23723,2618,12895,4.87
+2024-10-09,Asia Pacific,Atlas Lite,Mid-Market,Online,70,109642,7885,58877,4.79
+2024-10-10,Europe,Solstice,Enterprise,Reseller,80,287184,22202,128370,3.55
+2024-10-11,Latin America,Atlas Lite,Mid-Market,Reseller,10,7779,582,3867,4.58
+2024-10-12,Asia Pacific,Hyperion X,Enterprise,Online,54,277979,28324,113345,4.52
+2024-10-13,Europe,Phoenix Pro,SMB,Reseller,58,133380,11414,63062,4.02
+2024-10-14,Asia Pacific,Nova Edge,Mid-Market,Partner,35,86224,10417,46037,4.36
+2024-10-15,Asia Pacific,Nova Edge,SMB,Partner,21,29443,3740,16165,4.12
+2024-10-16,Latin America,Hyperion X,SMB,Direct,7,5525,543,2362,3.98
+2024-11-01,Asia Pacific,Phoenix Pro,SMB,Direct,64,129626,11292,68337,4.5
+2024-11-02,Middle East,Nova Edge,SMB,Online,25,15042,1417,6829,3.87
+2024-11-03,Latin America,Solstice,Mid-Market,Reseller,12,12079,1063,6379,4.72
+2024-11-04,Latin America,Atlas Lite,Enterprise,Online,32,42104,2677,21017,3.65
+2024-11-05,Latin America,Atlas Lite,Mid-Market,Online,26,21051,1922,11480,3.85
+2024-11-06,Asia Pacific,Hyperion X,Mid-Market,Direct,16,43123,4977,18908,4.73
+2024-11-07,Latin America,Phoenix Pro,Enterprise,Reseller,21,57696,4947,28291,4.31
+2024-11-08,Europe,Solstice,SMB,Reseller,61,74211,6885,37911,4.26
+2024-11-09,Middle East,Phoenix Pro,Self-Serve,Reseller,6,2527,274,1035,4.44
+2024-11-10,Europe,Phoenix Pro,Enterprise,Reseller,81,541709,55377,219425,3.87
+2024-11-11,North America,Solstice,Enterprise,Direct,93,508831,62816,208321,3.59
+2024-11-12,Asia Pacific,Solstice,Enterprise,Direct,39,122490,9567,57142,4.29
+2024-11-13,Middle East,Solstice,Self-Serve,Partner,11,2790,236,1390,3.62
+2024-11-14,Asia Pacific,Solstice,SMB,Partner,26,31250,2925,17168,4.18
+2024-11-15,Europe,Atlas Lite,Mid-Market,Partner,26,52887,6517,28509,4.98
+2024-11-16,Asia Pacific,Hyperion X,Enterprise,Partner,50,313936,16457,153772,4.45
+2024-11-17,Middle East,Phoenix Pro,Mid-Market,Online,8,10353,596,4842,3.97
+2024-11-18,Middle East,Solstice,Enterprise,Partner,26,40372,4935,19463,3.79
+2024-11-19,Middle East,Phoenix Pro,SMB,Online,15,12195,937,4962,3.77
+2024-11-20,North America,Solstice,Mid-Market,Reseller,115,407963,24244,196628,4.74
+2024-11-21,Latin America,Solstice,SMB,Online,16,8895,736,4068,4.7
+2024-11-22,Latin America,Hyperion X,SMB,Partner,29,21310,2082,9601,4.16
+2024-11-23,North America,Phoenix Pro,SMB,Partner,62,202069,22159,83409,4.54
+2024-11-24,Asia Pacific,Atlas Lite,Mid-Market,Reseller,48,93959,11925,45921,4.01
+2024-11-25,Asia Pacific,Atlas Lite,Mid-Market,Online,31,52582,3934,21524,3.8
+2024-11-26,Middle East,Solstice,Mid-Market,Reseller,23,20766,2316,8329,3.81
+2024-11-27,Latin America,Solstice,Mid-Market,Reseller,29,26123,2242,13015,4.47
+2024-11-28,Latin America,Nova Edge,SMB,Reseller,5,3305,388,1371,3.85
+2024-11-01,Middle East,Solstice,Self-Serve,Partner,26,6184,568,2994,4.89
+2024-11-02,North America,Atlas Lite,Self-Serve,Online,108,73393,6122,37850,4.44
+2024-11-03,North America,Hyperion X,Mid-Market,Reseller,46,256956,23618,115876,4.83
+2024-11-04,Asia Pacific,Atlas Lite,SMB,Direct,70,76710,4573,41766,4
+2024-11-05,Latin America,Atlas Lite,Self-Serve,Reseller,25,6599,593,2920,3.65
+2024-11-06,North America,Hyperion X,Self-Serve,Partner,87,126604,8914,52952,3.63
+2024-11-07,Europe,Atlas Lite,Mid-Market,Partner,40,94172,8582,51725,4.32
+2024-11-08,Middle East,Solstice,Enterprise,Reseller,25,38823,2078,19318,4.87
+2024-11-09,Middle East,Phoenix Pro,Self-Serve,Direct,19,7827,703,3464,4.01
+2024-11-10,North America,Atlas Lite,SMB,Partner,32,44935,2578,20515,3.62
+2024-11-11,Europe,Hyperion X,Mid-Market,Online,73,230367,13832,116807,4.43
+2024-11-12,North America,Atlas Lite,Self-Serve,Partner,102,69589,4713,38220,4.39
+2024-11-13,North America,Atlas Lite,Enterprise,Reseller,20,100177,6402,45740,4.4
+2024-11-14,Latin America,Hyperion X,Enterprise,Reseller,18,44483,3932,23490,3.63
+2024-11-15,Asia Pacific,Phoenix Pro,Mid-Market,Partner,31,101034,5817,49235,3.68
+2024-11-16,Latin America,Solstice,Self-Serve,Direct,24,6481,471,3472,4.07
+2024-11-17,Middle East,Hyperion X,SMB,Online,18,13481,1650,6646,4.25
+2024-11-18,Asia Pacific,Nova Edge,SMB,Direct,50,83494,9960,43997,4.09
+2024-11-19,North America,Solstice,SMB,Reseller,89,176649,13650,96571,4.11
+2024-11-20,Europe,Phoenix Pro,Enterprise,Partner,60,388133,19545,190270,4.01
+2024-11-21,Latin America,Nova Edge,Enterprise,Reseller,34,78915,9549,34586,3.66
+2024-11-22,Latin America,Solstice,SMB,Online,15,8699,650,4199,4.53
+2024-11-23,Europe,Nova Edge,SMB,Online,85,148433,16887,79961,3.66
+2024-11-24,North America,Phoenix Pro,Mid-Market,Direct,63,403744,26972,164412,3.79
+2024-11-25,Asia Pacific,Hyperion X,Mid-Market,Partner,45,145336,7848,69654,3.6
+2024-11-26,Asia Pacific,Nova Edge,SMB,Partner,64,98597,5045,39906,4.11
+2024-11-27,North America,Solstice,Enterprise,Direct,86,551691,71033,262558,3.82
+2024-11-28,Europe,Nova Edge,Self-Serve,Partner,11,8927,510,4709,3.99
+2024-11-01,Europe,Atlas Lite,SMB,Partner,52,56394,4515,22714,3.72
+2024-11-02,Asia Pacific,Atlas Lite,Self-Serve,Online,37,17380,1710,7209,3.67
+2024-11-03,North America,Atlas Lite,Enterprise,Direct,22,125973,6984,53012,4.07
+2024-11-04,Middle East,Hyperion X,Mid-Market,Reseller,3,3966,408,1604,3.84
+2024-11-05,Latin America,Hyperion X,Mid-Market,Direct,4,4943,418,2673,3.87
+2024-11-06,Latin America,Solstice,SMB,Direct,12,5555,281,2925,3.98
+2024-11-07,Europe,Hyperion X,SMB,Partner,39,81360,7890,39708,4.05
+2024-11-08,Asia Pacific,Atlas Lite,SMB,Online,44,49981,5454,25289,4.33
+2024-11-09,Latin America,Nova Edge,Self-Serve,Direct,31,12452,1045,6478,3.57
+2024-11-10,Latin America,Nova Edge,Self-Serve,Partner,16,6055,700,3067,3.85
+2024-11-11,Asia Pacific,Nova Edge,SMB,Partner,17,28408,1866,15559,4.21
+2024-11-12,Latin America,Hyperion X,Self-Serve,Partner,7,2725,189,1421,4.41
+2024-11-13,North America,Nova Edge,Enterprise,Reseller,113,948600,48047,473307,4.39
+2024-11-14,North America,Hyperion X,SMB,Online,89,235638,21063,110266,4.36
+2024-11-15,Asia Pacific,Atlas Lite,Enterprise,Online,53,170180,19715,83942,4.81
+2024-11-16,Asia Pacific,Phoenix Pro,Self-Serve,Reseller,64,68838,5116,31702,3.95
+2024-11-17,North America,Nova Edge,Enterprise,Direct,21,143376,10362,67398,3.64
+2024-11-18,Latin America,Hyperion X,Mid-Market,Partner,6,9164,1168,4025,3.99
+2024-11-19,Middle East,Nova Edge,Mid-Market,Online,22,20259,1101,10656,4.84
+2024-11-20,Middle East,Atlas Lite,SMB,Online,28,10654,1125,5407,4.29
+2024-11-21,Middle East,Hyperion X,Self-Serve,Reseller,29,11133,1215,4877,3.79
+2024-11-22,Europe,Phoenix Pro,Enterprise,Partner,13,84853,4924,37489,4.44
+2024-11-23,Middle East,Nova Edge,Self-Serve,Online,13,4086,432,2179,3.86
+2024-11-24,North America,Nova Edge,Enterprise,Online,85,563940,58382,267432,4.27
+2024-11-25,Middle East,Nova Edge,SMB,Reseller,29,18764,1520,10188,4.06
+2024-11-26,Asia Pacific,Hyperion X,Enterprise,Direct,47,293874,37611,124105,4.56
+2024-11-27,Latin America,Atlas Lite,Mid-Market,Reseller,24,20433,1977,10215,4.61
+2024-11-28,North America,Nova Edge,Enterprise,Online,13,106361,6071,51637,4.28
+2024-11-01,North America,Phoenix Pro,Enterprise,Direct,92,1008495,112866,550692,4.27
+2024-11-02,Latin America,Solstice,Self-Serve,Partner,24,5567,638,2447,3.6
+2024-11-03,Europe,Atlas Lite,Self-Serve,Direct,46,27819,3276,12815,3.99
+2024-11-04,North America,Atlas Lite,Enterprise,Direct,16,85129,4269,43158,4.39
+2024-11-05,Asia Pacific,Atlas Lite,Mid-Market,Direct,24,42427,3873,17281,3.66
+2024-11-06,Asia Pacific,Atlas Lite,SMB,Direct,42,37602,3315,16163,4.53
+2024-11-07,Asia Pacific,Solstice,Mid-Market,Reseller,14,31591,2986,16351,4.32
+2024-11-08,Asia Pacific,Phoenix Pro,Self-Serve,Direct,19,20387,1735,10469,4.32
+2024-11-09,Latin America,Hyperion X,SMB,Direct,28,21404,2326,9027,4.8
+2024-11-10,North America,Solstice,Mid-Market,Partner,78,264827,29469,126800,4.94
+2024-11-11,Middle East,Phoenix Pro,Mid-Market,Reseller,17,22456,2091,9731,4.5
+2024-11-12,North America,Nova Edge,Self-Serve,Reseller,28,32725,1652,14749,4.49
+2024-11-13,North America,Atlas Lite,Mid-Market,Partner,57,142422,16745,66406,4.26
+2024-11-14,Middle East,Phoenix Pro,Self-Serve,Partner,14,5502,452,2308,4.9
+2024-11-15,Middle East,Solstice,Mid-Market,Online,14,10971,791,4446,3.86
+2024-11-16,North America,Nova Edge,Enterprise,Direct,95,817308,96736,387348,3.61
+2024-12-01,Asia Pacific,Atlas Lite,Enterprise,Partner,15,45223,3322,18783,4.32
+2024-12-02,Asia Pacific,Phoenix Pro,Mid-Market,Partner,8,24127,2545,12875,4.03
+2024-12-03,North America,Hyperion X,Self-Serve,Direct,49,73444,5009,39481,4.21
+2024-12-04,Asia Pacific,Solstice,Mid-Market,Partner,45,97567,7331,53358,4.92
+2024-12-05,Latin America,Phoenix Pro,Mid-Market,Online,14,21568,1278,9826,3.78
+2024-12-06,Asia Pacific,Atlas Lite,Self-Serve,Reseller,42,17855,1859,9184,3.86
+2024-12-07,Middle East,Nova Edge,Enterprise,Reseller,20,38432,4734,16361,3.57
+2024-12-08,North America,Nova Edge,Self-Serve,Direct,117,159519,18987,68192,4.99
+2024-12-09,Europe,Phoenix Pro,SMB,Reseller,38,96861,10266,48488,3.72
+2024-12-10,Europe,Solstice,Self-Serve,Online,27,16071,884,8453,4.72
+2024-12-11,Asia Pacific,Solstice,SMB,Direct,15,15074,1372,7884,3.9
+2024-12-12,North America,Solstice,Enterprise,Direct,17,98291,12562,43681,3.78
+2024-12-13,Europe,Solstice,Mid-Market,Partner,46,120518,14177,52016,3.62
+2024-12-14,North America,Nova Edge,Mid-Market,Direct,106,461125,35975,225307,4.9
+2024-12-15,Middle East,Solstice,Self-Serve,Online,7,1647,88,696,4.74
+2024-12-16,Europe,Phoenix Pro,SMB,Online,23,48934,4041,22450,4.78
+2024-12-17,Middle East,Hyperion X,Self-Serve,Reseller,26,9360,838,4098,4.84
+2024-12-18,Latin America,Nova Edge,Self-Serve,Reseller,33,10167,693,4708,4.71
+2024-12-19,Middle East,Hyperion X,Self-Serve,Reseller,21,8251,822,3753,4.89
+2024-12-20,Middle East,Atlas Lite,SMB,Direct,7,3105,195,1703,4.82
+2024-12-21,Asia Pacific,Phoenix Pro,Self-Serve,Partner,59,51995,6152,21633,4.72
+2024-12-22,Europe,Nova Edge,SMB,Online,43,84505,5678,43820,4.61
+2024-12-23,Europe,Nova Edge,Mid-Market,Reseller,40,113768,9246,60394,3.66
+2024-12-24,Asia Pacific,Atlas Lite,Self-Serve,Reseller,50,28208,2426,13915,3.88
+2024-12-25,Latin America,Solstice,SMB,Online,9,4255,390,1897,4.13
+2024-12-26,Europe,Hyperion X,Self-Serve,Reseller,16,16301,867,7033,4.01
+2024-12-27,North America,Phoenix Pro,Mid-Market,Direct,79,473600,33174,241373,4.59
+2024-12-28,Middle East,Solstice,SMB,Reseller,11,4894,299,2611,4.71
+2024-12-01,Asia Pacific,Phoenix Pro,SMB,Online,24,44576,3558,18829,4.47
+2024-12-02,Europe,Nova Edge,Mid-Market,Direct,85,262192,29851,130276,3.73
+2024-12-03,Latin America,Nova Edge,Enterprise,Direct,15,30464,2330,14650,3.76
+2024-12-04,Asia Pacific,Solstice,Self-Serve,Online,70,45203,4215,22199,3.81
+2024-12-05,Europe,Phoenix Pro,Mid-Market,Direct,73,349292,29316,153531,3.64
+2024-12-06,North America,Phoenix Pro,Mid-Market,Direct,113,629880,80604,326887,4.79
+2024-12-07,Asia Pacific,Atlas Lite,SMB,Direct,16,15308,1518,7068,4.02
+2024-12-08,North America,Solstice,Mid-Market,Online,67,180598,10113,92019,3.76
+2024-12-09,Asia Pacific,Phoenix Pro,Mid-Market,Reseller,40,147353,14726,61780,4.94
+2024-12-10,Europe,Solstice,Enterprise,Partner,66,302427,24781,162792,3.88
+2024-12-11,Latin America,Nova Edge,Mid-Market,Online,32,43170,3913,17844,3.85
+2024-12-12,Europe,Phoenix Pro,Self-Serve,Partner,51,68907,6096,30025,4.18
+2024-12-13,Europe,Nova Edge,Enterprise,Reseller,90,563164,41189,296200,3.53
+2024-12-14,North America,Atlas Lite,SMB,Partner,116,204849,10711,89266,3.76
+2024-12-15,North America,Phoenix Pro,SMB,Online,80,245573,19148,117086,4.12
+2024-12-16,Asia Pacific,Solstice,Mid-Market,Online,31,66774,4653,32637,4
+2024-12-17,North America,Atlas Lite,Mid-Market,Partner,64,191658,20753,96497,4.47
+2024-12-18,Middle East,Phoenix Pro,Mid-Market,Reseller,7,10304,776,5541,4.22
+2024-12-19,Latin America,Nova Edge,Self-Serve,Online,13,3987,233,1937,4.43
+2024-12-20,North America,Atlas Lite,Mid-Market,Direct,23,58610,4014,27440,4.07
+2024-12-21,North America,Nova Edge,Self-Serve,Reseller,45,58582,5869,28840,4.05
+2024-12-22,Middle East,Hyperion X,Enterprise,Reseller,29,66226,3842,35623,3.69
+2024-12-23,Asia Pacific,Hyperion X,Self-Serve,Online,28,27387,2219,11385,4.96
+2024-12-24,Europe,Atlas Lite,Mid-Market,Direct,46,105722,13399,48409,4.84
+2024-12-25,Asia Pacific,Solstice,Self-Serve,Online,39,21440,2088,11521,3.72
+2024-12-26,Europe,Nova Edge,Enterprise,Online,23,145349,15624,58485,3.89
+2024-12-27,North America,Phoenix Pro,Self-Serve,Reseller,74,118959,10340,51314,3.7
+2024-12-28,Europe,Phoenix Pro,Self-Serve,Direct,13,16263,1988,6638,4.98
+2024-12-01,Middle East,Solstice,Mid-Market,Partner,8,5831,452,2370,4.52
+2024-12-02,North America,Phoenix Pro,Enterprise,Online,48,465230,55512,186698,4.64
+2024-12-03,North America,Phoenix Pro,SMB,Direct,76,214818,27214,87616,4.99
+2024-12-04,Europe,Phoenix Pro,Enterprise,Reseller,70,590416,41686,240401,4.14
+2024-12-05,Latin America,Nova Edge,Mid-Market,Reseller,26,30952,2603,14827,3.86
+2024-12-06,Middle East,Atlas Lite,Enterprise,Direct,8,9395,1026,4374,3.68
+2024-12-07,North America,Solstice,SMB,Online,97,148380,9917,72736,4.51
+2024-12-08,Europe,Atlas Lite,SMB,Direct,21,22869,1248,10183,3.73
+2024-12-09,North America,Atlas Lite,SMB,Online,26,47355,4686,25931,3.83
+2024-12-10,Middle East,Solstice,SMB,Reseller,30,14507,1576,6456,4.41
+2024-12-11,Europe,Hyperion X,Enterprise,Reseller,86,604674,45528,313050,4.92
+2024-12-12,North America,Solstice,Enterprise,Online,17,109728,8600,58715,3.84
+2024-12-13,Middle East,Hyperion X,SMB,Reseller,23,14213,1251,6432,4.8
+2024-12-14,Europe,Phoenix Pro,Mid-Market,Partner,72,333756,21297,154204,4.79
+2024-12-15,Asia Pacific,Hyperion X,Self-Serve,Online,24,21596,1656,9691,3.74
+2024-12-16,North America,Atlas Lite,Enterprise,Partner,108,491586,26001,237800,4.31
+2024-12-17,Middle East,Solstice,SMB,Partner,23,11011,1131,5011,4.06
+2024-12-18,Europe,Solstice,SMB,Partner,51,60163,3931,28576,3.51
+2024-12-19,North America,Hyperion X,SMB,Partner,42,109954,7602,51984,3.92
+2024-12-20,Latin America,Phoenix Pro,Self-Serve,Partner,26,10896,989,5212,4.85
+2024-12-21,Europe,Phoenix Pro,Enterprise,Online,79,615031,79463,254374,3.69
+2024-12-22,Middle East,Atlas Lite,Enterprise,Partner,24,28224,3399,13218,3.53
+2024-12-23,Latin America,Atlas Lite,SMB,Partner,28,12984,927,6928,4.49
+2024-12-24,Asia Pacific,Nova Edge,Enterprise,Partner,62,331679,40926,156803,3.84
+2024-12-25,Asia Pacific,Atlas Lite,Self-Serve,Partner,50,24043,1228,12694,4.62
+2024-12-26,Europe,Solstice,Enterprise,Direct,72,347050,44584,165008,4.2
+2024-12-27,Europe,Atlas Lite,Mid-Market,Online,39,74530,7651,30371,4.3
+2024-12-28,Asia Pacific,Hyperion X,Self-Serve,Direct,15,14117,1153,6890,4.12
+2024-12-01,North America,Nova Edge,Self-Serve,Partner,63,69534,8263,37109,4.65
+2024-12-02,Latin America,Hyperion X,Enterprise,Partner,10,26900,2975,12865,3.71
+2024-12-03,Latin America,Phoenix Pro,Enterprise,Reseller,7,21356,1902,11726,4.91
+2024-12-04,Asia Pacific,Phoenix Pro,SMB,Online,64,144117,12135,65079,4.34
+2024-12-05,Asia Pacific,Hyperion X,SMB,Direct,55,104792,11179,52983,4.49
+2024-12-06,Asia Pacific,Nova Edge,Self-Serve,Partner,22,14183,1031,6944,3.61
+2024-12-07,Europe,Hyperion X,Enterprise,Reseller,27,171532,16219,81380,4.57
+2024-12-08,North America,Atlas Lite,SMB,Reseller,117,214170,12761,99795,3.88
+2024-12-09,Europe,Phoenix Pro,Self-Serve,Direct,36,42462,4851,17894,4.9
+2024-12-10,Asia Pacific,Nova Edge,Mid-Market,Partner,23,63356,7585,28668,4.34
+2024-12-11,Middle East,Phoenix Pro,Self-Serve,Online,27,10372,1068,5067,4.54
+2024-12-12,North America,Phoenix Pro,SMB,Reseller,114,403705,40337,205182,3.56
+2024-12-13,Europe,Hyperion X,Self-Serve,Partner,45,53477,3976,28428,4.72
+2024-12-14,Europe,Nova Edge,SMB,Reseller,67,104719,13549,49117,4.15
+2024-12-15,Middle East,Nova Edge,Self-Serve,Direct,16,5071,458,2689,4.88
+2024-12-16,Asia Pacific,Solstice,Mid-Market,Partner,34,73332,9111,31070,4.92

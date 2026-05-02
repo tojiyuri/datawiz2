@@ -1,0 +1,37 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "_comment": "Vercel deploys the frontend (Vite SPA). The 'rootDirectory' in Vercel's UI should be set to 'client'. This file pins build settings so they don't drift.",
+
+  "buildCommand": "cd client && npm install && npm run build",
+  "outputDirectory": "client/dist",
+  "installCommand": "cd client && npm install",
+
+  "framework": null,
+
+  "rewrites": [
+    {
+      "_comment": "SPA fallback: every URL returns index.html so React Router takes over",
+      "source": "/((?!.*\\..*).*)",
+      "destination": "/index.html"
+    }
+  ],
+
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "_comment": "Don't cache index.html — must reflect new deploys immediately",
+      "source": "/index.html",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" }
+      ]
+    }
+  ]
+}

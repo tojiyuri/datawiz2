@@ -1,0 +1,26 @@
+node_modules
+**/node_modules
+client/dist
+client/.vite
+
+# Local data — should never be baked into the image
+server/data/*.db
+server/data/*.db-*
+server/data/*.json
+server/data/datasets/*.json
+server/uploads/*
+
+# Dev artifacts
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.vscode
+.idea
+.git
+.github
+*.bak
+
+# Tests don't need to ship in the image
+server/__tests__
+vitest.config.js

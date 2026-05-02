@@ -1,0 +1,65 @@
+# Render Blueprint — automatic deployment config.
+#
+# When you connect this repo to Render via "New > Blueprint", Render reads
+# this file and provisions everything below. You do NOT click around to
+# configure individual services — that's the whole point of a blueprint.
+#
+# What this creates:
+#   - One web service running the Node.js backend
+#   - A 1GB persistent disk mounted at /var/data so SQLite survives restarts
+#
+# The frontend lives on Vercel separately — that's a different deploy.
+
+services:
+  - type: web
+    name: datawiz-api
+    runtime: node
+    region: oregon                      # Closest Render region. Change if you're in EU/Asia.
+    plan: free                          # Free tier; sleeps after 15min of inactivity.
+    branch: main
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health        # Render polls this; deploy fails if it doesn't return 200.
+
+    # Persistent disk — survives restarts and redeploys. The free tier gives
+    # 1GB which is enough for thousands of datasets at typical sizes.
+    disk:
+      name: datawiz-data
+      mountPath: /var/data
+      sizeGB: 1
+
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 8000
+      - key: DATA_DIR
+        value: /var/data                # Points DB and dataset files at the persistent disk
+      - key: TRUST_PROXY
+        value: "1"                      # Render uses one proxy hop in front of the app
+
+      # JWT secret — generated automatically by Render. Will be a strong random
+      # string, set once, never visible in any commit.
+      - key: JWT_SECRET
+        generateValue: true
+
+      # Frontend URL(s) — set this AFTER your Vercel deploy is live. Comma-
+      # separated list of all origins that should be allowed. Example:
+      #   https://datawiz-yours.vercel.app,https://datawiz-yours-git-main.vercel.app
+      - key: CLIENT_URL
+        sync: false                     # Means "I'll set this in the dashboard, don't auto-sync"
+
+      # Optional — wire these up later for full functionality:
+      #   ANTHROPIC_API_KEY  → enables LLM features (Wiz chat, smart insights)
+      #   SMTP_HOST / SMTP_USER / SMTP_PASS → enables auth emails + scheduled reports
+      # If absent, the app degrades gracefully (heuristic LLM, link emails skipped).
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: SMTP_HOST
+        sync: false
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASS
+        sync: false
+      - key: SMTP_FROM
+        sync: false
